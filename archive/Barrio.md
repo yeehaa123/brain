@@ -2,6 +2,7 @@
 type: research
 ---
 
+
 ## Opening Slide
 
 * Logo / collage

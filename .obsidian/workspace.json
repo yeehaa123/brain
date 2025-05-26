@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "0cf565dbe3ce60c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "327fa0ce8c4db7c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2b9b7760249df80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Urging New Institutions.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Urging New Institutions"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0710a55417569ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "40ee5d39eb8fdd8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bed4501cb0d85cc2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "cab30c13fb4b876f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7c8cfbf7196f9efc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6c67b38cc9925672",
+    "type": "split",
+    "children": [
+      {
+        "id": "be113d054046e916",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11398af2f4bec7db",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "cb47755a7d0ad239",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Rizom Collaborator QA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Rizom Collaborator QA"
+            }
+          },
+          {
+            "id": "157278577cbcafb2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f89a736267a28e33",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Rizom Collaborator QA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Rizom Collaborator QA"
+            }
+          },
+          {
+            "id": "47946e825a118f59",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "fbf1254100e3458f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "b2b9b7760249df80",
+  "lastOpenFiles": [
+    "Value-Based Revenue Model.md",
+    "Rizom Collaborator QA.md",
+    "Rizom Investor QA.md",
+    "archive/Rizom Onboarding.md",
+    "archive/Vision Type Content.md",
+    "archive/Vision Type.md",
+    "Ecosystem Engagement.md",
+    "Description Collective.md",
+    "archive/Ecosystem Building Strategy.md",
+    "Rizom Messaging Document.md",
+    "Urging New Institutions.md",
+    "UntUitled.md",
+    "New Institutions.md",
+    "Urging New Institutions Outline 1.md",
+    "Urging New Institutions Outline.md",
+    "The Practice Of Ecosystem Architecture.md",
+    "The Good Foot.md",
+    "Talent Vetting and Quality Assurance.md",
+    "Rollup Approach.md",
+    "Roll-up Assessment Framework.md",
+    "Acquisition Targets.md",
+    "archive/Barrio.md",
+    "archive/Vision Type Content 2.0.md",
+    "archive",
+    "Rizom Business Analysis.md",
+    "Rizom Brief.md",
+    "Reclaiming The Future.md",
+    "indexes",
+    "posts"
+  ]
+}

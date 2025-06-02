@@ -2,8 +2,8 @@
 id: Media Kit
 entityType: base
 title: Media Kit
-created: '2025-06-02T15:28:08.730Z'
-updated: '2025-06-02T16:32:04.967Z'
+created: '2025-05-09T06:05:23.700Z'
+updated: '2025-06-02T17:23:59.572Z'
 tags: []
 ---
 ## 1. CV and Biography

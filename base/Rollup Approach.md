@@ -2,8 +2,8 @@
 id: Rollup Approach
 entityType: base
 title: Rollup Approach
-created: '2025-06-02T15:28:08.731Z'
-updated: '2025-06-02T16:32:04.447Z'
+created: '2025-05-09T06:27:56.736Z'
+updated: '2025-06-02T17:23:59.078Z'
 tags: []
 ---
 ## Executive Summary

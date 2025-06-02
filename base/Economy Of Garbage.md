@@ -2,8 +2,8 @@
 id: Economy Of Garbage
 entityType: base
 title: Economy Of Garbage
-created: '2025-06-02T15:28:08.730Z'
-updated: '2025-06-02T16:32:04.607Z'
+created: '2025-05-09T14:04:25.553Z'
+updated: '2025-06-02T17:23:59.217Z'
 tags: []
 ---
 Decentralization should not be confused with fragmentation. When implemented thoughtfully, decentralization's cultural techniques can actually mitigate the negative effects of fragmentation. However, the most prominent contemporary manifestation of decentralization has fallen prey to an excess mindset. The initial excitement surrounding blockchain's potential as an immutable and incorruptible ledger has been overshadowed by cryptocurrency's promise of instant wealth—a notion that often resembles a pyramid scheme.

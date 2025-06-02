@@ -2,8 +2,8 @@
 id: LinkedIn Profile
 entityType: base
 title: LinkedIn Profile
-created: '2025-06-02T15:28:08.730Z'
-updated: '2025-06-02T16:32:05.264Z'
+created: '2025-05-09T06:08:38.525Z'
+updated: '2025-06-02T17:23:59.853Z'
 tags: []
 ---
 # Jan Hein Hoogstad

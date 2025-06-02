@@ -2,8 +2,8 @@
 id: Talent Vetting and Quality Assurance
 entityType: base
 title: Talent Vetting and Quality Assurance
-created: '2025-06-02T15:01:42.100Z'
-updated: '2025-06-02T15:19:11.593Z'
+created: '2025-06-02T15:19:13.363Z'
+updated: '2025-06-02T15:28:06.999Z'
 tags: []
 ---
 ## Introduction

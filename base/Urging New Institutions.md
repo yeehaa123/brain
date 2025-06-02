@@ -2,8 +2,8 @@
 id: Urging New Institutions
 entityType: base
 title: Urging New Institutions
-created: '2025-06-02T15:01:42.100Z'
-updated: '2025-06-02T15:19:11.102Z'
+created: '2025-06-02T15:19:13.364Z'
+updated: '2025-06-02T15:28:06.516Z'
 tags: []
 ---
 There was a time, not long ago, when I was convinced that we should uphold our public institutions by any means necessary. As a political philosopher, I was instilled with the belief that our political system, the law, educational structures, and ultimately the constitution served as our defense against anti-democratic forces.

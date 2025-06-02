@@ -2,8 +2,8 @@
 id: The Practice Of Ecosystem Architecture
 entityType: base
 title: The Practice Of Ecosystem Architecture
-created: '2025-06-02T15:01:42.098Z'
-updated: '2025-06-02T15:19:13.285Z'
+created: '2025-06-02T15:19:13.362Z'
+updated: '2025-06-02T15:28:08.657Z'
 tags: []
 ---
 More than ever before, people enjoy the privilege to replace random communities with intentional ones. It is no longer necessary to base our choice of cohabitation based upon spatiotemporal contingency alone. Instead, we can choose to be members of ecosystems that are driven by shared values. Ecosystem architecture is the practice of designing such virtual spaces.

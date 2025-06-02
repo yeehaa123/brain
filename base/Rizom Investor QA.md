@@ -2,8 +2,8 @@
 id: Rizom Investor QA
 entityType: base
 title: Rizom Investor QA
-created: '2025-06-02T15:01:42.100Z'
-updated: '2025-06-02T15:19:11.173Z'
+created: '2025-06-02T15:19:13.364Z'
+updated: '2025-06-02T15:28:06.587Z'
 tags: []
 ---
 ## What is Rizom?

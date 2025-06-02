@@ -2,8 +2,8 @@
 id: Description Collective
 entityType: base
 title: Description Collective
-created: '2025-06-02T15:01:42.098Z'
-updated: '2025-06-02T15:19:12.719Z'
+created: '2025-06-02T15:19:13.362Z'
+updated: '2025-06-02T15:28:08.099Z'
 tags: []
 ---
 Rizom operates as a dynamic professional collective, bringing together seasoned experts in digital transformation, organizational development, and ecosystem design under a shared ownership model. Our collective transcends traditional consulting structures by fostering genuine stakeholder engagement through equitable participation and distributed decision-making.

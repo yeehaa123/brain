@@ -2,8 +2,8 @@
 id: Acquisition Targets
 entityType: base
 title: Acquisition Targets
-created: '2025-06-02T15:01:42.099Z'
-updated: '2025-06-02T15:19:11.938Z'
+created: '2025-06-02T15:19:13.363Z'
+updated: '2025-06-02T15:28:07.339Z'
 tags: []
 ---
 ## Overview

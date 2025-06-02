@@ -2,8 +2,8 @@
 id: Rizom Brief
 entityType: base
 title: Rizom Brief
-created: '2025-06-02T15:19:13.362Z'
-updated: '2025-06-02T15:28:08.375Z'
+created: '2025-06-02T15:28:08.730Z'
+updated: '2025-06-02T16:32:05.042Z'
 tags: []
 ---
 ## 0. Executive Summary

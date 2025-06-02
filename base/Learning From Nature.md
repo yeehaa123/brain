@@ -2,8 +2,8 @@
 id: Learning From Nature
 entityType: base
 title: Learning From Nature
-created: '2025-06-02T15:19:13.362Z'
-updated: '2025-06-02T15:28:07.891Z'
+created: '2025-06-02T15:28:08.731Z'
+updated: '2025-06-02T16:32:04.524Z'
 tags: []
 ---
 When perceived through the lens of abundance, decentralized ecosystems have the potential to be more vibrant and resilient than any centralized community or organization can ever be. By giving communities more control over their resources and decision-making processes, they become increasingly empowered to collaboratively create healthier ecosystems. It is exactly in this north star vision where the practices of decentralization and regeneration meet.

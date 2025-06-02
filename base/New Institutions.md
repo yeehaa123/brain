@@ -2,8 +2,8 @@
 id: New Institutions
 entityType: base
 title: New Institutions
-created: '2025-06-02T15:19:13.363Z'
-updated: '2025-06-02T15:28:07.757Z'
+created: '2025-06-02T15:28:08.731Z'
+updated: '2025-06-02T16:32:04.375Z'
 tags: []
 ---
 ## 1. Urging New Institutions

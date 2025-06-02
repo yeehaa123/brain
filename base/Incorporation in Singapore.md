@@ -2,8 +2,8 @@
 id: Incorporation in Singapore
 entityType: base
 title: Incorporation in Singapore
-created: '2025-06-02T15:19:13.363Z'
-updated: '2025-06-02T15:28:07.481Z'
+created: '2025-06-02T15:28:08.731Z'
+updated: '2025-06-02T16:32:04.085Z'
 tags: []
 ---
 # Singapore Incorporation Rationale

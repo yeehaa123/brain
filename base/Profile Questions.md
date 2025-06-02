@@ -2,8 +2,8 @@
 id: Profile Questions
 entityType: base
 title: Profile Questions
-created: '2025-06-02T15:19:13.363Z'
-updated: '2025-06-02T15:28:07.617Z'
+created: '2025-06-02T15:28:08.731Z'
+updated: '2025-06-02T16:32:04.228Z'
 tags: []
 ---
 ## The types of companies who impress me the most are…

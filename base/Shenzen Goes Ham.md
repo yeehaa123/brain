@@ -2,8 +2,8 @@
 id: Shenzen Goes Ham
 entityType: base
 title: Shenzen Goes Ham
-created: '1970-01-01T00:00:00.000Z'
-updated: '2025-06-02T15:01:41.049Z'
+created: '2025-06-02T15:01:42.099Z'
+updated: '2025-06-02T15:19:12.287Z'
 tags: []
 ---
 In the realm of technology and innovation, decentralization has emerged as a powerful force shaping the way we create, collaborate, and distribute power. Despite what crypto-boys want us to believe, blockchain, bitcoin, and DAOs are far from the first, let alone the best, manifestations of decentralization. The feudal system, the silk road, and the Greek city states were all built around principles of distributed power and organization.

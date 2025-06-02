@@ -2,8 +2,8 @@
 id: Rizom Business Analysis
 entityType: base
 title: Rizom Business Analysis
-created: '1970-01-01T00:00:00.000Z'
-updated: '2025-06-02T15:01:40.215Z'
+created: '2025-06-02T15:01:42.100Z'
+updated: '2025-06-02T15:19:11.458Z'
 tags: []
 ---
 ## 1. Business Model & Pain Points

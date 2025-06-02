@@ -2,8 +2,8 @@
 id: Rizom Messaging Document
 entityType: base
 title: Rizom Messaging Document
-created: '1970-01-01T00:00:00.000Z'
-updated: '2025-06-02T15:01:41.879Z'
+created: '2025-06-02T15:01:42.098Z'
+updated: '2025-06-02T15:19:13.141Z'
 tags: []
 ---
 **Who are we?** 

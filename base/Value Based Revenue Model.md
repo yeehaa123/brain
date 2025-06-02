@@ -2,7 +2,7 @@
 id: Value-Based Revenue Model
 entityType: base
 title: Value Based Revenue Model
-created: '1970-01-01T00:00:00.000Z'
+created: '2025-05-18T03:49:40.261Z'
 updated: '2025-05-18T03:49:40.261Z'
 tags: []
 ---

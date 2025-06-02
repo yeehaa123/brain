@@ -2,8 +2,8 @@
 id: Reclaiming The Future
 entityType: base
 title: Reclaiming The Future
-created: '1970-01-01T00:00:00.000Z'
-updated: '2025-06-02T15:01:40.013Z'
+created: '2025-06-02T15:01:42.100Z'
+updated: '2025-06-02T15:19:11.246Z'
 tags: []
 ---
 Ecosystem architecture encourages us to invest in futures that we would like to inhabit rather than settling for the one we expect to become reality. From its inception, the true promise of the decentralized internet has been the multiplication of public and private spaces. More importantly, we acquired an unrivaled degree of ownership over them. We did not lose the internet due to fragmentation, but because we started outsourcing our responsibility to take care of it to governments and corporations. It is high time to reclaim it.

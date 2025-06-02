@@ -3,7 +3,7 @@ id: Talent Vetting and Quality Assurance
 entityType: base
 title: Talent Vetting and Quality Assurance
 created: '1970-01-01T00:00:00.000Z'
-updated: '2025-05-13T06:36:59.697Z'
+updated: '2025-06-02T15:01:40.354Z'
 tags: []
 ---
 ## Introduction

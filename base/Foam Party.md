@@ -3,7 +3,7 @@ id: Foam Party
 entityType: base
 title: Foam Party
 created: '1970-01-01T00:00:00.000Z'
-updated: '2025-05-09T14:04:05.233Z'
+updated: '2025-06-02T15:01:40.081Z'
 tags: []
 ---
 Everyday language is overloaded with conceptual metaphors that either celebrate the whole or lament its absence: broken heart, phantom pain, paradise lost, etcetera. The fact that these sentiments are so deeply ingrained into our means of communication also explains why it is so difficult to let universality go. This is already true *de facto*, let alone *de jure*. Even if we are willing to submit ourselves to the existential fact of living without absolute truth, it is still probable that we conceive its absence as a loss. Reframing fragmentation as something positive is next to impossible.

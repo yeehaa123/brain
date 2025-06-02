@@ -3,7 +3,7 @@ id: New Institutions
 entityType: base
 title: New Institutions
 created: '1970-01-01T00:00:00.000Z'
-updated: '2025-05-14T12:44:04.855Z'
+updated: '2025-06-02T15:01:41.119Z'
 tags: []
 ---
 ## 1. Urging New Institutions

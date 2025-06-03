@@ -3,7 +3,7 @@ id: Align The Misaligned
 entityType: base
 title: Align The Misaligned
 created: '2025-05-09T14:03:33.030Z'
-updated: '2025-06-02T17:23:58.018Z'
+updated: '2025-06-03T08:25:35.951Z'
 tags: []
 ---
 It is remarkable how the history of virtual space mimics that of its physical counterpart. Like the universe's big bang, or better yet, the earth's tectonic shifts, our once one and only internet has shattered into many pieces. To lead with the bad news: no attempt to glue its pieces back together will ever mend it into a whole again. But the fact that something is broken does not mean that it is worthless. Changing our relation to fragments and waste is key to our planetary future. So why exclude the internet from our newfound consciousness?

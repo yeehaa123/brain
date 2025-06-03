@@ -3,7 +3,7 @@ id: The Good Foot
 entityType: base
 title: The Good Foot
 created: '2025-05-09T14:05:12.601Z'
-updated: '2025-06-02T17:23:59.501Z'
+updated: '2025-06-03T08:25:37.445Z'
 tags: []
 ---
 An ecosystem is a regenerative practice of continuous, decentralized alignment. The fact that it strives towards the most favorable conditions for most, however, inevitably means that it will not work for all. This brings us to a crucial, and often overlooked, principle that we can learn from nature: the freedom to leave one habitat for another. Healthy ecosystems facilitate the possibility to vote with your feet.

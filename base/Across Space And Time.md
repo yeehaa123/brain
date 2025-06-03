@@ -3,7 +3,7 @@ id: Across Space And Time
 entityType: base
 title: Across Space And Time
 created: '2025-05-09T14:02:45.641Z'
-updated: '2025-06-02T17:23:58.156Z'
+updated: '2025-06-03T08:25:36.095Z'
 tags: []
 ---
 In biology, an ecosystem is confined to a particular space and time. It is bound to the specific geographic area where a community of living organisms interacts with their physical environment. This space can vary greatly in size, from a small pond, to an expansive forest, or a vast ocean. Each ecosystem is characterized by its unique combination of biotic actors, such as plants, animals, and microorganisms, and abiotic factors, including climate, soil, water, and topography which can and will change over time. The spatio-temporal boundaries of a biological ecosystem are crucial because they determine the specific interactions and relationships among organisms.

@@ -3,7 +3,7 @@ id: Global Village People
 entityType: base
 title: Global Village People
 created: '2025-05-09T14:03:12.760Z'
-updated: '2025-06-02T17:23:59.288Z'
+updated: '2025-06-03T08:25:37.235Z'
 tags: []
 ---
 In his revelatory works *The Gutenberg Galaxy* (1962) and *Understanding Media* (1964), Marshall McLuhan predicts that connecting the world through technology will not lead to further unification. Rather, the connective powers of electricity, and the technical media built on top of it, will turn the world into a global village. As information travels rapidly across the globe, traditional distinctions between local and global, as well as between different cultures, are eroded. The concept of global village designates a contraction of space and time, creating a sense of simultaneous existence for people worldwide.

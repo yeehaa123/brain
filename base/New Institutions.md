@@ -1,10 +1,8 @@
 ---
 id: New Institutions
 entityType: base
-title: New Institutions
 created: '2025-05-14T12:44:04.855Z'
-updated: '2025-06-03T08:25:36.956Z'
-tags: []
+updated: '2025-06-04T15:51:37.683Z'
 ---
 ## 1. Urging New Institutions
 - The growing gap between existing institutions and contemporary challenges

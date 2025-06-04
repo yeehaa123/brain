@@ -1,8 +1,8 @@
 ---
-id: Roll up Assessment Questions
+id: Roll-up Assessment Questions
 entityType: base
-created: '2025-06-03T08:25:37.954Z'
-updated: '2025-06-03T08:25:37.954Z'
+created: '2025-05-09T06:25:50.585Z'
+updated: '2025-05-09T06:25:50.585Z'
 ---
 ## Strategic Value Assessment (X-Axis)
 Score each question from 1-5 (1=Low value, 5=High value)

@@ -1,10 +1,8 @@
 ---
 id: Rizom Collaborator QA
 entityType: base
-title: Rizom Collaborator QA
 created: '2025-05-18T07:57:16.006Z'
-updated: '2025-06-03T08:25:36.590Z'
-tags: []
+updated: '2025-06-04T15:51:37.337Z'
 ---
 ## What is Rizom?
 Rizom is a decentralized professional ecosystem where talented individuals like you can combine your skills without sacrificing your unique style and approach. We're building an organic, resilient community inspired by rhizomes—plant systems that thrive through connection, knowledge sharing, and adaptability.

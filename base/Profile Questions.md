@@ -1,10 +1,8 @@
 ---
 id: Profile Questions
 entityType: base
-title: Profile Questions
 created: '2025-05-09T06:16:49.214Z'
-updated: '2025-06-03T08:25:36.808Z'
-tags: []
+updated: '2025-06-04T15:51:37.546Z'
 ---
 ## The types of companies who impress me the most are…
 

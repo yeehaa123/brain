@@ -1,10 +1,8 @@
 ---
 id: Acquisition Targets
 entityType: base
-title: Acquisition Targets
 created: '2025-05-09T14:13:50.345Z'
-updated: '2025-06-03T08:25:36.518Z'
-tags: []
+updated: '2025-06-04T15:51:37.271Z'
 ---
 ## Overview
 This document outlines acquisition targets for Rizom's rollup strategy, focusing on boutique agencies in Europe (design, business development) and Asia (technology). Each target aligns with Rizom’s freelancer-driven model and offers strategic growth opportunities. Agencies are categorized into four quadrants:

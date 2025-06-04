@@ -2,7 +2,7 @@
 id: Value Based Revenue Model
 entityType: base
 created: '2025-06-03T08:25:37.954Z'
-updated: '2025-06-03T08:25:37.954Z'
+updated: '2025-06-04T16:58:48.422Z'
 ---
 ## Executive Summary
 

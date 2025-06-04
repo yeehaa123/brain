@@ -2,7 +2,7 @@
 id: Shenzen Goes Ham
 entityType: base
 created: '2025-05-09T14:04:15.763Z'
-updated: '2025-06-04T15:51:37.617Z'
+updated: '2025-06-04T16:58:47.963Z'
 ---
 In the realm of technology and innovation, decentralization has emerged as a powerful force shaping the way we create, collaborate, and distribute power. Despite what crypto-boys want us to believe, blockchain, bitcoin, and DAOs are far from the first, let alone the best, manifestations of decentralization. The feudal system, the silk road, and the Greek city states were all built around principles of distributed power and organization.
 

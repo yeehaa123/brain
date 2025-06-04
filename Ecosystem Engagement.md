@@ -2,8 +2,6 @@
 type: research
 author: Naod Berhe
 ---
-
-
 **Objectives of "Solutions Meetings"**
 
 **Objective:**

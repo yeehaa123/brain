@@ -2,7 +2,7 @@
 id: Brains Essence
 entityType: base
 created: '2025-06-04T07:34:59.101Z'
-updated: '2025-06-04T07:34:59.101Z'
+updated: '2025-06-04T16:58:47.700Z'
 ---
 Rizom's product offering consists of a series of so-called brains. Brains assist professionals with all activities that involve knowledge sharing, whether that is within a team, with others, or even with yourself.
 

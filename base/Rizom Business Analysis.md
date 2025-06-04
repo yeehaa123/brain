@@ -2,7 +2,7 @@
 id: Rizom Business Analysis
 entityType: base
 created: '2025-05-13T06:08:31.950Z'
-updated: '2025-06-04T15:51:36.804Z'
+updated: '2025-06-04T16:58:46.849Z'
 ---
 ## 1. Business Model & Pain Points
 

@@ -2,7 +2,7 @@
 id: Media Kit
 entityType: base
 created: '2025-05-09T06:05:23.700Z'
-updated: '2025-06-04T15:51:38.217Z'
+updated: '2025-06-04T16:58:48.552Z'
 ---
 ## 1. CV and Biography
 

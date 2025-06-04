@@ -2,7 +2,7 @@
 id: Incorporation in Singapore
 entityType: base
 created: '2025-05-14T04:45:47.479Z'
-updated: '2025-06-04T15:51:37.409Z'
+updated: '2025-06-04T16:58:47.637Z'
 ---
 # Singapore Incorporation Rationale
 

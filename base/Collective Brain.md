@@ -2,7 +2,7 @@
 id: Collective Brain
 entityType: base
 created: '2025-06-04T07:58:04.276Z'
-updated: '2025-06-04T07:58:04.276Z'
+updated: '2025-06-04T16:58:46.456Z'
 ---
 # Strengthen Your Collective Without Sacrificing Independence
 

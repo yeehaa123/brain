@@ -2,7 +2,7 @@
 id: Team Brain
 entityType: base
 created: '2025-06-04T07:56:14.325Z'
-updated: '2025-06-04T07:56:14.325Z'
+updated: '2025-06-04T16:58:47.440Z'
 ---
 # Turn Your Team's Combined Knowledge Into Your Biggest Competitive Advantage
 

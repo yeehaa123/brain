@@ -2,7 +2,7 @@
 id: Rizom Messaging Document
 entityType: base
 created: '2025-05-13T06:10:19.987Z'
-updated: '2025-06-04T15:51:38.425Z'
+updated: '2025-06-04T16:58:48.825Z'
 ---
 **Who are we?** 
 

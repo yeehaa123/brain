@@ -2,7 +2,7 @@
 id: How Brains Actually Work
 entityType: base
 created: '2025-06-04T08:06:39.257Z'
-updated: '2025-06-04T08:06:39.257Z'
+updated: '2025-06-04T16:58:47.766Z'
 ---
 Rizom brains are deployable knowledge processing units that combine intelligent data ingestion, schema-driven transformation, and multi-protocol distribution. Each brain operates as an autonomous system that can be deployed wherever you need knowledge processing capabilities.
 

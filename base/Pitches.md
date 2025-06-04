@@ -2,7 +2,7 @@
 id: Pitches
 entityType: base
 created: '2025-05-09T06:15:57.747Z'
-updated: '2025-06-04T15:51:37.136Z'
+updated: '2025-06-04T16:58:47.305Z'
 ---
 ## Y-Combinator Version
 

@@ -2,7 +2,7 @@
 id: Talent Vetting and Quality Assurance
 entityType: base
 created: '2025-05-13T06:36:59.697Z'
-updated: '2025-06-04T15:51:36.938Z'
+updated: '2025-06-04T16:58:46.983Z'
 ---
 ## Introduction
 

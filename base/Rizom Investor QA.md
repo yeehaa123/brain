@@ -2,7 +2,7 @@
 id: Rizom Investor QA
 entityType: base
 created: '2025-05-18T04:09:21.587Z'
-updated: '2025-06-04T15:51:36.530Z'
+updated: '2025-06-04T16:58:46.521Z'
 ---
 ## What is Rizom?
 Rizom is a decentralized professional ecosystem where talented individuals collaborate without sacrificing their unique approaches. We're building a scalable platform inspired by rhizomes—plant systems that thrive through connection and adaptability—creating a new model for professional services with strong market differentiation and sustainable revenue.

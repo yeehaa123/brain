@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rizom Brains.md",
+                "file": "Ecosystem Engagement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rizom Brains"
+              "title": "Ecosystem Engagement"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "privile",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,13 +195,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0f0452068f51d54",
+  "active": "cab30c13fb4b876f",
   "lastOpenFiles": [
-    "Collective Brain.md",
-    "Across Space And Time.md",
     "Align The Misaligned.md",
-    "Brains Essence.md",
+    "Across Space And Time.md",
+    "Acquisition Targets.md",
     "Rizom Brains.md",
+    "base/Roll-up Assessment Questions.md",
+    "base/Roll-up Assessment Framework.md",
+    "base/Value-Based Revenue Model.md",
+    "base/Brains Essence.md",
+    "base/Freelance Brain.md",
+    "base/Team Brain.md",
+    "base/Collective Brain.md",
+    "base/How Brains Actually Work.md",
+    "base/Rizom Brains.md",
+    "Collective Brain.md",
+    "Brains Essence.md",
     "Untitled",
     "Urging New Institutions.md",
     "How Brains Actually Work.md",
@@ -213,16 +224,6 @@
     "base/Pitches.md",
     "base/Profile Questions.md",
     "base/Rizom Brief.md",
-    "base/Roll up Assessment Questions.md",
-    "base/Rollup Approach.md",
-    "base/Roll up Assessment Framework.md",
-    "base/Across Space And Time.md",
-    "base/Practice Innovation.md",
-    "base/Global Village People.md",
-    "base/Align The Misaligned.md",
-    "base/Foam Party.md",
-    "base/Shenzen Goes Ham.md",
-    "base/Economy Of Garbage.md",
     "base",
     "archive/Barrio.md~",
     "archive",

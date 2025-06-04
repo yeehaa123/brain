@@ -2,7 +2,7 @@
 id: Roll-up Assessment Framework
 entityType: base
 created: '2025-05-09T07:04:14.157Z'
-updated: '2025-05-09T07:04:14.157Z'
+updated: '2025-06-04T16:58:47.110Z'
 ---
 ## Overview
 This framework provides a structured approach for rapidly evaluating potential agency acquisition targets using weighted criteria across two key dimensions: Strategic Value and Turnaround Potential. The assessment is designed to be completed in 2-3 hours using readily available information, resulting in a clear positioning on the Quick-Scan Matrix.

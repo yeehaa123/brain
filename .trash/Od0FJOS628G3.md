@@ -1,13 +1,15 @@
 ---
-id: jf6Jv99Abn-z
+id: Od0FJOS628G3
 entityType: generated-content
-contentType: 'webserver-plugin:landing:hero'
+contentType: 'webserver:landing:page'
 data:
-  title: Organize and Discover Your Knowledge - Test Brain
-  tagline: Unlock the power of your personal knowledge base.
+  title: Elevate Your Expertise with Test Brain
+  tagline: Your personal knowledge management powerhouse
   hero:
-    headline: Elevate Your Thinking with Test Brain
-    subheadline: 'Effortlessly organize, connect, and explore your personal knowledge.'
+    headline: Unleash the Full Potential of Your Expertise
+    subheadline: >-
+      Test Brain is your intelligent assistant that captures, organizes, and
+      amplifies your unique knowledge - so you can focus on what matters most.
     ctaText: Get Started
     ctaLink: /signup
 metadata:
@@ -39,15 +41,15 @@ metadata:
       siteTitle: Test Brain
       siteDescription: A test instance of Personal Brain
     style: professional and engaging
-  generatedAt: '2025-06-07T06:41:18.580Z'
+  generatedAt: '2025-06-07T06:50:45.101Z'
   generatedBy: claude-3-sonnet
   regenerated: false
-created: '2025-06-07T06:41:18.581Z'
-updated: '2025-06-07T06:41:18.581Z'
+created: '2025-06-07T06:50:45.101Z'
+updated: '2025-06-07T06:50:45.101Z'
 ---
-# webserver-plugin:landing:hero
+# webserver:landing:page
 
-Date: 2025-06-07T06:41:18.580Z
+Date: 2025-06-07T06:50:45.101Z
 Model: claude-3-sonnet
 
 ## Prompt
@@ -69,5 +71,5 @@ Additional instructions: This is for "Test Brain" - A test instance of Personal 
 
 ## Summary
 
-This file contains generated content of type "webserver-plugin:landing:hero".
+This file contains generated content of type "webserver:landing:page".
 The full generated data is stored in the frontmatter of this file.

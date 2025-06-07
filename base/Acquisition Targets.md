@@ -1,8 +1,5 @@
 ---
-id: Acquisition Targets
-entityType: base
-created: '2025-05-09T14:13:50.345Z'
-updated: '2025-06-04T16:58:47.369Z'
+type: research
 ---
 ## Overview
 This document outlines acquisition targets for Rizom's rollup strategy, focusing on boutique agencies in Europe (design, business development) and Asia (technology). Each target aligns with Rizom’s freelancer-driven model and offers strategic growth opportunities. Agencies are categorized into four quadrants:
@@ -57,3 +54,5 @@ This document outlines acquisition targets for Rizom's rollup strategy, focusing
 The **priority targets** represent the best acquisition opportunities, with high strategic value and turnaround potential. **Value opportunities** offer good return on investment but may not be as critical. **Strategic partnerships** can provide significant advantages without requiring full acquisition. **Avoided targets** are either too risky or offer little strategic benefit.
 
 By focusing on **high-value boutique acquisitions**, Rizom can accelerate growth while maintaining capital efficiency and integration agility.
+
+

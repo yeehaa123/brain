@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ecosystem Engagement.md",
+                "file": "Acquisition Targets.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ecosystem Engagement"
+              "title": "Acquisition Targets"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "privile",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cab30c13fb4b876f",
+  "active": "b0f0452068f51d54",
   "lastOpenFiles": [
+    "base/Acquisition Targets.md",
+    "Ecosystem Engagement.md",
     "Align The Misaligned.md",
     "Across Space And Time.md",
     "Acquisition Targets.md",
@@ -222,8 +223,6 @@
     "base/LinkedIn Profile.md",
     "base/Go To Market Strategy.md",
     "base/Pitches.md",
-    "base/Profile Questions.md",
-    "base/Rizom Brief.md",
     "base",
     "archive/Barrio.md~",
     "archive",

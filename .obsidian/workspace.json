@@ -11,10 +11,14 @@
             "id": "b0f0452068f51d54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "generated-content/ugLJvHjZaTmn.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "ugLJvHjZaTmn"
             }
           }
         ]
@@ -190,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bed4501cb0d85cc2",
+  "active": "b0f0452068f51d54",
   "lastOpenFiles": [
-    "generated-content/Gz9g16saiOvw.md",
     "generated-content/QoUwA9mTBG5R.md",
+    "generated-content/ugLJvHjZaTmn.md",
+    "generated-content/Gz9g16saiOvw.md",
     "generated-content/1ozDA_-SqXQS.md",
     "generated-content/Od0FJOS628G3.md",
     "generated-content/jf6Jv99Abn-z.md",
@@ -218,7 +223,6 @@
     "base/How Brains Actually Work.md",
     "base/Rizom Brains.md",
     "Collective Brain.md",
-    "Brains Essence.md",
     "Untitled",
     "base",
     "archive/Barrio.md~",

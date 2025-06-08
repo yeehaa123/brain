@@ -44,7 +44,7 @@ metadata:
       ctaText: Get Started
       ctaLink: /signup
 created: '2025-06-08T18:04:07.958Z'
-updated: '2025-06-08T18:04:07.958Z'
+updated: '2025-06-08T18:05:15.898Z'
 ---
 # Landing Page Configuration
 

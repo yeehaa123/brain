@@ -1,5 +1,5 @@
 ---
-id: _NbhSLurwj6Q
+id: NJtmy6TQNQN2
 entityType: generated-content
 contentType: 'webserver:section:cta'
 metadata:
@@ -29,32 +29,29 @@ metadata:
     data:
       siteTitle: Test Brain
       siteDescription: A test instance of Personal Brain
-  generatedAt: '2025-06-09T17:57:49.469Z'
+  generatedAt: '2025-06-09T17:58:50.061Z'
   generatedBy: claude-3-sonnet
   regenerated: false
   validationStatus: valid
   lastValidData:
-    headline: Unlock Your Full Potential with Test Brain
-    description: >-
-      Supercharge your personal knowledge management with the powerful features
-      of Test Brain. Start organizing your thoughts, ideas, and information
-      today.
+    headline: Unlock the full potential of your expertise
+    description: Your personal knowledge powerhouse.
     primaryButton:
       text: Get Started Now
       link: /signup
     secondaryButton:
       text: View Demo
       link: /demo
-created: '2025-06-09T17:57:49.469Z'
-updated: '2025-06-09T17:59:04.155Z'
+created: '2025-06-09T17:58:50.061Z'
+updated: '2025-06-09T17:58:50.061Z'
 ---
 # CTA Section
 
 ## Headline
-Unlock Your Full Potential with Test Brain
+Unlock the full potential of your expertise
 
 ## Description
-Supercharge your personal knowledge management with the powerful features of Test Brain. Start organizing your thoughts, ideas, and information today.
+Your personal knowledge powerhouse.
 
 ## Primary Button
 ### Text

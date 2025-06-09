@@ -11,10 +11,14 @@
             "id": "b0f0452068f51d54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "generated-content/_NbhSLurwj6Q.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "_NbhSLurwj6Q"
             }
           }
         ]
@@ -192,6 +196,10 @@
   },
   "active": "b0f0452068f51d54",
   "lastOpenFiles": [
+    "generated-content/fll1toLwYwLP.md",
+    "generated-content/QujDsSDTV4La.md",
+    "generated-content/UH80xCQYckYX.md",
+    "generated-content/_NbhSLurwj6Q.md",
     "generated-content/Eun_aojrVYJW.md",
     "generated-content/4wbPcXHZm3O0.md",
     "generated-content/YOZ_b0Ah1Izl.md",
@@ -215,10 +223,6 @@
     "generated-content/ViF9kKNxlq1a.md",
     "generated-content",
     "base/Acquisition Targets.md",
-    "Ecosystem Engagement.md",
-    "Align The Misaligned.md",
-    "Across Space And Time.md",
-    "Rizom Brains.md",
     "Untitled",
     "base",
     "archive/Barrio.md~",

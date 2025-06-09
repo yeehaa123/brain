@@ -1,7 +1,6 @@
 ---
 type: profile
 ---
-
 # Jan Hein Hoogstad
 
 **Location**: Taipei, Taipei City, Taiwan  

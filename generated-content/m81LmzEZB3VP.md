@@ -35,36 +35,14 @@ metadata:
   generatedBy: claude-3-sonnet
   regenerated: false
   validationStatus: valid
-  lastValidData:
-    title: Organize Your Knowledge with Test Brain
-    tagline: Discover and connect your ideas effortlessly.
-    hero:
-      headline: Unlock the Power of Your Knowledge
-      subheadline: >-
-        Test Brain is a personal knowledge management system that helps you
-        capture, connect, and explore your thoughts and ideas.
-      ctaText: Try Test Brain Now
-      ctaLink: /signup
+  lastValidData: {}
 created: '2025-06-09T10:01:10.683Z'
-updated: '2025-06-09T10:01:10.683Z'
+updated: '2025-06-09T17:56:29.118Z'
 ---
-# Landing Page Configuration
+# Content Data
 
-## Title
-Organize Your Knowledge with Test Brain
+```yaml
+{}
+```
 
-## Tagline
-Discover and connect your ideas effortlessly.
-
-## Hero
-### Headline
-Unlock the Power of Your Knowledge
-
-### Subheadline
-Test Brain is a personal knowledge management system that helps you capture, connect, and explore your thoughts and ideas.
-
-### CTA Text
-Try Test Brain Now
-
-### CTA Link
-/signup
+Edit the YAML above to modify the content.

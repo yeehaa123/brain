@@ -11,14 +11,10 @@
             "id": "b0f0452068f51d54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LinkedIn Profile.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LinkedIn Profile"
+              "title": "New tab"
             }
           }
         ]
@@ -196,7 +192,15 @@
   },
   "active": "b0f0452068f51d54",
   "lastOpenFiles": [
+    "generated-content/Eun_aojrVYJW.md",
+    "generated-content/4wbPcXHZm3O0.md",
+    "generated-content/YOZ_b0Ah1Izl.md",
+    "generated-content/6u7zTBV-OFHv.md",
+    "generated-content/7m5Ta1MGV9jF.md",
+    "generated-content/36qzHFd0gnvF.md",
+    "generated-content/CVfKE1mcD0xY.md",
     "generated-content/m81LmzEZB3VP.md",
+    "generated-content/s9Fx-iqdvDX5.md",
     "LinkedIn Profile.md",
     "generated-content/ugLJvHjZaTmn.md",
     "generated-content/QoUwA9mTBG5R.md",
@@ -215,14 +219,6 @@
     "Align The Misaligned.md",
     "Across Space And Time.md",
     "Rizom Brains.md",
-    "base/Roll-up Assessment Questions.md",
-    "base/Roll-up Assessment Framework.md",
-    "base/Value-Based Revenue Model.md",
-    "base/Brains Essence.md",
-    "base/Freelance Brain.md",
-    "base/Team Brain.md",
-    "base/Collective Brain.md",
-    "base/How Brains Actually Work.md",
     "Untitled",
     "base",
     "archive/Barrio.md~",

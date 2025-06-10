@@ -1,5 +1,5 @@
 ---
-id: NJtmy6TQNQN2
+id: Zc8blHOB-lY0
 entityType: generated-content
 contentType: 'webserver:section:cta'
 metadata:
@@ -29,29 +29,29 @@ metadata:
     data:
       siteTitle: Test Brain
       siteDescription: A test instance of Personal Brain
-  generatedAt: '2025-06-09T17:58:50.061Z'
+  generatedAt: '2025-06-10T02:51:33.373Z'
   generatedBy: claude-3-sonnet
   regenerated: false
   validationStatus: valid
   lastValidData:
-    headline: Unlock the full potential of your expertise
-    description: Your personal knowledge powerhouse.
+    headline: 'Amplify Your Expertise, Accelerate Your Success'
+    description: Harness the power of your personal knowledge with Test Brain
     primaryButton:
       text: Get Started Now
       link: /signup
     secondaryButton:
       text: View Demo
       link: /demo
-created: '2025-06-09T17:58:50.061Z'
-updated: '2025-06-10T02:51:55.872Z'
+created: '2025-06-10T02:51:33.373Z'
+updated: '2025-06-10T02:51:33.373Z'
 ---
 # CTA Section
 
 ## Headline
-Unlock the full potential of your expertise
+Amplify Your Expertise, Accelerate Your Success
 
 ## Description
-Your personal knowledge powerhouse.
+Harness the power of your personal knowledge with Test Brain
 
 ## Primary Button
 ### Text

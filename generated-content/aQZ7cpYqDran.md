@@ -38,7 +38,7 @@ metadata:
     featuresId: features-test-brain
     ctaId: cta-test-brain
 created: '2025-06-10T15:43:45.252Z'
-updated: '2025-06-10T15:43:45.252Z'
+updated: '2025-06-10T17:33:01.969Z'
 ---
 # Landing Page Configuration
 

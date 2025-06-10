@@ -1,5 +1,5 @@
 ---
-id: bZjh7YKeigiU
+id: xz8ONtSrtSbl
 entityType: generated-content
 contentType: 'webserver:page:landing'
 metadata:
@@ -27,7 +27,7 @@ metadata:
     data:
       siteTitle: Test Brain
       siteDescription: A test instance of Personal Brain
-  generatedAt: '2025-06-10T16:13:22.450Z'
+  generatedAt: '2025-06-10T16:49:49.347Z'
   generatedBy: claude-3-sonnet
   regenerated: false
   validationStatus: valid
@@ -37,8 +37,8 @@ metadata:
     heroId: hero-test-brain
     featuresId: features-test-brain
     ctaId: cta-test-brain
-created: '2025-06-10T16:13:22.450Z'
-updated: '2025-06-10T17:33:01.671Z'
+created: '2025-06-10T16:49:49.347Z'
+updated: '2025-06-10T16:49:49.347Z'
 ---
 # Landing Page Configuration
 

@@ -1,5 +1,5 @@
 ---
-id: zjhHfNsngTHQ
+id: dzIosNhpvLSs
 entityType: generated-content
 contentType: 'webserver:section:features'
 metadata:
@@ -31,7 +31,7 @@ metadata:
     data:
       siteTitle: Test Brain
       siteDescription: A test instance of Personal Brain
-  generatedAt: '2025-06-10T15:43:40.754Z'
+  generatedAt: '2025-06-10T16:49:44.935Z'
   generatedBy: claude-3-sonnet
   regenerated: false
   validationStatus: invalid
@@ -128,10 +128,30 @@ metadata:
               7
             ],
             "message": "Expected object, received string"
+          },
+          {
+            "code": "invalid_type",
+            "expected": "object",
+            "received": "string",
+            "path": [
+              "features",
+              8
+            ],
+            "message": "Expected object, received string"
+          },
+          {
+            "code": "invalid_type",
+            "expected": "object",
+            "received": "string",
+            "path": [
+              "features",
+              9
+            ],
+            "message": "Expected object, received string"
           }
         ]
-created: '2025-06-10T15:43:40.754Z'
-updated: '2025-06-10T17:33:01.828Z'
+created: '2025-06-10T16:49:44.935Z'
+updated: '2025-06-10T16:49:44.935Z'
 ---
 # Features Section
 
@@ -139,22 +159,24 @@ updated: '2025-06-10T17:33:01.828Z'
 Features
 
 ## Headline
-Elevate Your Knowledge with Test Brain
+Unlock Your Knowledge Potential with Test Brain
 
 ## Description
-Test Brain's powerful features empower you to manage your personal knowledge effortlessly, unlocking new levels of productivity and insight.
+Test Brain is designed to supercharge your personal knowledge management, empowering you to capture, connect, and share insights with unparalleled speed and security.
 
 ## Feature Cards
 
-- ### Lightning-Fast Access
+- ### Blazing-Fast Ingestion
 - Icon: lightning
-- Description: Instantly retrieve relevant information from your personal knowledge base with Test Brain's lightning-fast search and retrieval.
-- ### Secure & Private
+- Description: Capture ideas, notes, and research with lightning-fast data ingestion, so you never lose a moment of inspiration.
+- ### Ironclad Security
 - Icon: lock
-- Description: Keep your valuable knowledge safe and protected with Test Brain's robust security features and encryption.
-- ### Intuitive Organization
-- Icon: check
-- Description: Effortlessly structure and navigate your personal knowledge using Test Brain's intuitive tagging and linking capabilities.
+- Description: Rest easy knowing your personal knowledge is protected by industry-leading encryption and access controls.
+- Color: purple
 - ### Collaborative Sharing
 - Icon: users
-- Description: Seamlessly share insights and ideas with your team through Test Brain's secure collaboration tools.
+- Description: Seamlessly share insights and work together with your team, while maintaining full control over your intellectual property.
+- ### Intelligent Connections
+- Icon: brain
+- Description: Discover unexpected links between your ideas using advanced knowledge mapping and visualization tools.
+- Color: teal

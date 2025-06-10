@@ -1,5 +1,5 @@
 ---
-id: zjhHfNsngTHQ
+id: i_5cWeRJVky_
 entityType: generated-content
 contentType: 'webserver:section:features'
 metadata:
@@ -31,7 +31,7 @@ metadata:
     data:
       siteTitle: Test Brain
       siteDescription: A test instance of Personal Brain
-  generatedAt: '2025-06-10T15:43:40.754Z'
+  generatedAt: '2025-06-10T17:08:52.057Z'
   generatedBy: claude-3-sonnet
   regenerated: false
   validationStatus: invalid
@@ -130,8 +130,8 @@ metadata:
             "message": "Expected object, received string"
           }
         ]
-created: '2025-06-10T15:43:40.754Z'
-updated: '2025-06-10T17:33:01.828Z'
+created: '2025-06-10T17:08:52.057Z'
+updated: '2025-06-10T17:08:52.057Z'
 ---
 # Features Section
 
@@ -139,22 +139,22 @@ updated: '2025-06-10T17:33:01.828Z'
 Features
 
 ## Headline
-Elevate Your Knowledge with Test Brain
+Harness the Power of Your Personal Knowledge Ecosystem
 
 ## Description
-Test Brain's powerful features empower you to manage your personal knowledge effortlessly, unlocking new levels of productivity and insight.
+Test Brain offers a suite of intelligent features to capture, transform, and share your knowledge effortlessly.
 
 ## Feature Cards
 
-- ### Lightning-Fast Access
+- ### Rapid Ingestion
 - Icon: lightning
-- Description: Instantly retrieve relevant information from your personal knowledge base with Test Brain's lightning-fast search and retrieval.
-- ### Secure & Private
+- Description: Seamlessly capture knowledge from any source with our lightning-fast ingestion engine.
+- ### Secure Storage
 - Icon: lock
-- Description: Keep your valuable knowledge safe and protected with Test Brain's robust security features and encryption.
-- ### Intuitive Organization
+- Description: Your data is encrypted and protected, ensuring your knowledge remains private and accessible only to you.
+- ### Intelligent Transformation
 - Icon: check
-- Description: Effortlessly structure and navigate your personal knowledge using Test Brain's intuitive tagging and linking capabilities.
+- Description: Transform your knowledge into personalized outputs tailored to your needs, from notes to reports and more.
 - ### Collaborative Sharing
 - Icon: users
-- Description: Seamlessly share insights and ideas with your team through Test Brain's secure collaboration tools.
+- Description: Selectively share your knowledge with trusted contacts, fostering productive collaboration.

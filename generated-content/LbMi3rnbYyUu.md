@@ -1,5 +1,5 @@
 ---
-id: aKsoVpc3mqTr
+id: LbMi3rnbYyUu
 entityType: generated-content
 contentType: 'webserver:page:landing'
 metadata:
@@ -27,24 +27,24 @@ metadata:
     data:
       siteTitle: Test Brain
       siteDescription: A test instance of Personal Brain
-  generatedAt: '2025-06-10T15:18:00.342Z'
+  generatedAt: '2025-06-10T15:22:08.728Z'
   generatedBy: claude-3-sonnet
   regenerated: false
   validationStatus: valid
   lastValidData:
     title: Test Brain
-    tagline: 'Effortlessly organize your knowledge, ideas, and life.'
+    tagline: Amplify your expertise with an intelligent personal knowledge assistant
     heroId: hero-test-brain
     featuresId: features-test-brain
     ctaId: cta-test-brain
-created: '2025-06-10T15:18:00.342Z'
-updated: '2025-06-10T15:22:53.932Z'
+created: '2025-06-10T15:22:08.728Z'
+updated: '2025-06-10T15:22:08.728Z'
 ---
 # Landing Page Configuration
 
 ```yaml
 title: Test Brain
-tagline: Effortlessly organize your knowledge, ideas, and life.
+tagline: Amplify your expertise with an intelligent personal knowledge assistant
 heroId: hero-test-brain
 featuresId: features-test-brain
 ctaId: cta-test-brain

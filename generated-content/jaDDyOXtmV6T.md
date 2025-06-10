@@ -1,5 +1,5 @@
 ---
-id: SkR7IQitrpZJ
+id: jaDDyOXtmV6T
 entityType: generated-content
 contentType: 'webserver:section:cta'
 metadata:
@@ -30,29 +30,29 @@ metadata:
     data:
       siteTitle: Test Brain
       siteDescription: A test instance of Personal Brain
-  generatedAt: '2025-06-10T15:22:05.656Z'
+  generatedAt: '2025-06-10T15:35:36.482Z'
   generatedBy: claude-3-sonnet
   regenerated: false
   validationStatus: valid
   lastValidData:
-    headline: 'Elevate Your Expertise, Effortlessly'
-    description: Unlock Your Knowledge Potential with Test Brain
+    headline: Elevate Your Expertise to New Heights
+    description: Unlock the Power of Your Knowledge with Test Brain
     primaryButton:
       text: Start Free Trial
       link: /signup
     secondaryButton:
       text: Learn More
       link: /about
-created: '2025-06-10T15:22:05.656Z'
-updated: '2025-06-10T15:36:09.578Z'
+created: '2025-06-10T15:35:36.482Z'
+updated: '2025-06-10T15:35:36.482Z'
 ---
 # CTA Section
 
 ## Headline
-Elevate Your Expertise, Effortlessly
+Elevate Your Expertise to New Heights
 
 ## Description
-Unlock Your Knowledge Potential with Test Brain
+Unlock the Power of Your Knowledge with Test Brain
 
 ## Primary Button
 ### Text

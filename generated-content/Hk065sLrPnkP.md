@@ -1,5 +1,5 @@
 ---
-id: Ycm_tUTRx4w7
+id: Hk065sLrPnkP
 entityType: generated-content
 contentType: 'webserver:section:hero'
 metadata:
@@ -27,25 +27,27 @@ metadata:
     data:
       siteTitle: Test Brain
       siteDescription: A test instance of Personal Brain
-  generatedAt: '2025-06-10T15:17:52.210Z'
+  generatedAt: '2025-06-10T15:35:30.236Z'
   generatedBy: claude-3-sonnet
   regenerated: false
   validationStatus: valid
   lastValidData:
-    headline: Unlock Your Knowledge Potential
-    subheadline: 'Organize, connect, and access your personal information with Test Brain'
+    headline: Transform Your Knowledge Into Lasting Value
+    subheadline: >-
+      Test Brain is your personal knowledge management system - capture
+      insights, remix content, and share your expertise.
     ctaText: Get Started
     ctaLink: /get-started
-created: '2025-06-10T15:17:52.210Z'
-updated: '2025-06-10T15:36:09.494Z'
+created: '2025-06-10T15:35:30.236Z'
+updated: '2025-06-10T15:35:30.236Z'
 ---
 # Hero Section
 
 ## Headline
-Unlock Your Knowledge Potential
+Transform Your Knowledge Into Lasting Value
 
 ## Subheadline
-Organize, connect, and access your personal information with Test Brain
+Test Brain is your personal knowledge management system - capture insights, remix content, and share your expertise.
 
 ## CTA Text
 Get Started

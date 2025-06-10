@@ -136,25 +136,13 @@ updated: '2025-06-10T15:43:40.754Z'
 # Features Section
 
 ## Label
-Features
+
 
 ## Headline
-Elevate Your Knowledge with Test Brain
+
 
 ## Description
-Test Brain's powerful features empower you to manage your personal knowledge effortlessly, unlocking new levels of productivity and insight.
+
 
 ## Feature Cards
 
-- ### Lightning-Fast Access
-- Icon: lightning
-- Description: Instantly retrieve relevant information from your personal knowledge base with Test Brain's lightning-fast search and retrieval.
-- ### Secure & Private
-- Icon: lock
-- Description: Keep your valuable knowledge safe and protected with Test Brain's robust security features and encryption.
-- ### Intuitive Organization
-- Icon: check
-- Description: Effortlessly structure and navigate your personal knowledge using Test Brain's intuitive tagging and linking capabilities.
-- ### Collaborative Sharing
-- Icon: users
-- Description: Seamlessly share insights and ideas with your team through Test Brain's secure collaboration tools.

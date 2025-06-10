@@ -1,5 +1,5 @@
 ---
-id: zjhHfNsngTHQ
+id: gE1lLuk-vBza
 entityType: generated-content
 contentType: 'webserver:section:features'
 metadata:
@@ -31,7 +31,7 @@ metadata:
     data:
       siteTitle: Test Brain
       siteDescription: A test instance of Personal Brain
-  generatedAt: '2025-06-10T15:43:40.754Z'
+  generatedAt: '2025-06-10T16:13:18.117Z'
   generatedBy: claude-3-sonnet
   regenerated: false
   validationStatus: invalid
@@ -128,10 +128,20 @@ metadata:
               7
             ],
             "message": "Expected object, received string"
+          },
+          {
+            "code": "invalid_type",
+            "expected": "object",
+            "received": "string",
+            "path": [
+              "features",
+              8
+            ],
+            "message": "Expected object, received string"
           }
         ]
-created: '2025-06-10T15:43:40.754Z'
-updated: '2025-06-10T15:43:40.754Z'
+created: '2025-06-10T16:13:18.117Z'
+updated: '2025-06-10T16:13:18.117Z'
 ---
 # Features Section
 
@@ -139,22 +149,23 @@ updated: '2025-06-10T15:43:40.754Z'
 Features
 
 ## Headline
-Elevate Your Knowledge with Test Brain
+Amplify Your Knowledge, Accelerate Your Workflow
 
 ## Description
-Test Brain's powerful features empower you to manage your personal knowledge effortlessly, unlocking new levels of productivity and insight.
+Test Brain delivers a powerful suite of features to help you capture, organize, and leverage your personal knowledge with speed, security, and seamless collaboration.
 
 ## Feature Cards
 
-- ### Lightning-Fast Access
+- ### Blazing-Fast Ingestion
 - Icon: lightning
-- Description: Instantly retrieve relevant information from your personal knowledge base with Test Brain's lightning-fast search and retrieval.
-- ### Secure & Private
+- Description: Instantly capture ideas, notes, and insights from any source with our lightning-fast data ingestion engine.
+- ### Ironclad Security
 - Icon: lock
-- Description: Keep your valuable knowledge safe and protected with Test Brain's robust security features and encryption.
-- ### Intuitive Organization
-- Icon: check
-- Description: Effortlessly structure and navigate your personal knowledge using Test Brain's intuitive tagging and linking capabilities.
-- ### Collaborative Sharing
+- Description: Keep your knowledge safe with robust encryption and granular access controls that give you complete control over your data.
+- ### Collaborative Workflows
 - Icon: users
-- Description: Seamlessly share insights and ideas with your team through Test Brain's secure collaboration tools.
+- Description: Seamlessly share knowledge and work together with your team, while preserving individual ownership and autonomy.
+- ### Adaptive Intelligence
+- Icon: brain
+- Description: Leverage the power of AI to transform your knowledge into personalized outputs tailored to your needs and context.
+- Color: teal

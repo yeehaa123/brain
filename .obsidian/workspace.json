@@ -11,10 +11,14 @@
             "id": "b0f0452068f51d54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "generated-content/6Bvrvav9nCuk.md",
+                "mode": "source",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "6Bvrvav9nCuk"
             }
           }
         ]
@@ -192,18 +196,18 @@
   },
   "active": "b0f0452068f51d54",
   "lastOpenFiles": [
-    "generated-content/6Bvrvav9nCuk.md",
     "generated-content/1p1pu_twUpA3.md",
-    "generated-content/aKsoVpc3mqTr.md",
+    "generated-content/6Bvrvav9nCuk.md",
     "generated-content/ATsb8tjp_Dva.md",
     "generated-content/Hk065sLrPnkP.md",
     "generated-content/jaDDyOXtmV6T.md",
     "generated-content/jLdwh2zuvwID.md",
-    "generated-content/LbMi3rnbYyUu.md",
-    "generated-content/SkR7IQitrpZJ.md",
     "generated-content/MgG0Npl1WnnS.md",
+    "generated-content/SkR7IQitrpZJ.md",
     "generated-content/uybjIJKeYBBg.md",
     "generated-content/Ycm_tUTRx4w7.md",
+    "generated-content/aKsoVpc3mqTr.md",
+    "generated-content/LbMi3rnbYyUu.md",
     "generated-content/YuaGlkuzdNAH.md",
     "generated-content/YntLDRZ0Otum.md",
     "generated-content/VW0AaMpBaWk8.md",

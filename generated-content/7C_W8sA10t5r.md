@@ -1,5 +1,5 @@
 ---
-id: IJ4Wj1Vj8U5v
+id: 7C_W8sA10t5r
 entityType: generated-content
 contentType: 'webserver:section:hero'
 metadata:
@@ -27,27 +27,27 @@ metadata:
     data:
       siteTitle: Test Brain
       siteDescription: A test instance of Personal Brain
-  generatedAt: '2025-06-10T02:51:26.721Z'
+  generatedAt: '2025-06-10T03:43:00.385Z'
   generatedBy: claude-3-sonnet
   regenerated: false
   validationStatus: valid
   lastValidData:
-    headline: Harness the Power of Your Knowledge
+    headline: Unlock Your Full Potential with Test Brain
     subheadline: >-
-      Test Brain is your personal knowledge management system, helping you
-      capture, organize, and leverage your expertise.
+      Effortlessly capture, organize, and access your knowledge - anytime,
+      anywhere.
     ctaText: Get Started
     ctaLink: /get-started
-created: '2025-06-10T02:51:26.722Z'
-updated: '2025-06-10T09:14:16.800Z'
+created: '2025-06-10T03:43:00.385Z'
+updated: '2025-06-10T03:43:00.385Z'
 ---
 # Hero Section
 
 ## Headline
-Harness the Power of Your Knowledge
+Unlock Your Full Potential with Test Brain
 
 ## Subheadline
-Test Brain is your personal knowledge management system, helping you capture, organize, and leverage your expertise.
+Effortlessly capture, organize, and access your knowledge - anytime, anywhere.
 
 ## CTA Text
 Get Started

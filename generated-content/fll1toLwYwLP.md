@@ -39,7 +39,7 @@ metadata:
     ctaText: Get Started
     ctaLink: /get-started
 created: '2025-06-09T17:57:42.630Z'
-updated: '2025-06-10T02:51:56.220Z'
+updated: '2025-06-10T09:14:17.414Z'
 ---
 # Hero Section
 

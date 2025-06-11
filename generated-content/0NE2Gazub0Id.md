@@ -4,7 +4,7 @@ entityType: generated-content
 contentType: 'webserver:section:hero'
 generatedBy: claude-3-sonnet
 created: '2025-06-11T05:57:38.704Z'
-updated: '2025-06-11T05:57:38.704Z'
+updated: '2025-06-11T05:59:47.595Z'
 ---
 # Hero Section
 

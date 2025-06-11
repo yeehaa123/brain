@@ -4,7 +4,7 @@ entityType: generated-content
 contentType: 'webserver:section:cta'
 generatedBy: claude-3-sonnet
 created: '2025-06-11T05:57:44.178Z'
-updated: '2025-06-11T05:57:44.178Z'
+updated: '2025-06-11T05:59:47.818Z'
 ---
 # CTA Section
 

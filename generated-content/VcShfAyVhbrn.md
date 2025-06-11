@@ -1,16 +1,16 @@
 ---
-id: vKR3eI8zw-1k
+id: VcShfAyVhbrn
 entityType: generated-content
 contentType: 'webserver:page:landing'
 generatedBy: claude-3-sonnet
-created: '2025-06-11T06:01:43.754Z'
-updated: '2025-06-11T06:01:43.754Z'
+created: '2025-06-11T16:30:04.959Z'
+updated: '2025-06-11T16:30:04.959Z'
 ---
 # Landing Page Configuration
 
 ```yaml
 title: Test Brain
-tagline: Your personal knowledge management system
+tagline: Organize your knowledge, unlock your potential.
 heroId: hero-test-brain
 featuresId: features-test-brain
 ctaId: cta-test-brain

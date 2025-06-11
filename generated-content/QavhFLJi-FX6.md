@@ -3,8 +3,8 @@ id: QavhFLJi-FX6
 entityType: generated-content
 contentType: 'webserver:page:landing'
 generatedBy: claude-3-sonnet
-created: '2025-06-11T05:59:50.840Z'
-updated: '2025-06-11T05:59:50.840Z'
+created: '2025-06-11T06:01:43.755Z'
+updated: '2025-06-11T06:01:43.755Z'
 ---
 # Landing Page Configuration
 

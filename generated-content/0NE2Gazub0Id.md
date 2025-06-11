@@ -3,8 +3,8 @@ id: 0NE2Gazub0Id
 entityType: generated-content
 contentType: 'webserver:section:hero'
 generatedBy: claude-3-sonnet
-created: '2025-06-11T05:59:50.840Z'
-updated: '2025-06-11T05:59:50.840Z'
+created: '2025-06-11T06:01:43.755Z'
+updated: '2025-06-11T06:01:43.755Z'
 ---
 # Hero Section
 

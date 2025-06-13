@@ -3,8 +3,8 @@ id: Kr2htcbzwG9R
 entityType: generated-content
 contentType: 'webserver:page:landing'
 generatedBy: claude-3-sonnet
-created: '2025-06-11T16:40:17.009Z'
-updated: '2025-06-11T16:40:17.009Z'
+created: '2025-06-11T16:40:41.727Z'
+updated: '2025-06-11T16:40:41.727Z'
 ---
 # Landing Page Configuration
 

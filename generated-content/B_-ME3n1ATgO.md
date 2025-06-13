@@ -3,8 +3,8 @@ id: B_-ME3n1ATgO
 entityType: generated-content
 contentType: 'webserver:section:hero'
 generatedBy: claude-3-sonnet
-created: '2025-06-11T16:40:10.252Z'
-updated: '2025-06-11T16:40:10.252Z'
+created: '2025-06-11T16:40:41.727Z'
+updated: '2025-06-11T16:40:41.727Z'
 ---
 # Hero Section
 

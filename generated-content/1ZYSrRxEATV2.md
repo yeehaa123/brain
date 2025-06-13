@@ -1,10 +1,10 @@
 ---
-id: aXT3dL96H2f6
+id: 1ZYSrRxEATV2
 entityType: generated-content
-contentType: 'webserver:section:features'
+contentType: 'webserver:landing:features'
 generatedBy: claude-3-sonnet
-created: '2025-06-11T16:40:41.727Z'
-updated: '2025-06-11T16:40:41.727Z'
+created: '2025-06-13T09:20:50.316Z'
+updated: '2025-06-13T09:20:50.316Z'
 ---
 # Features Section
 
@@ -28,26 +28,26 @@ Intuitive Organization
 brain
 
 #### Description
-Easily structure your knowledge with a flexible note-taking system and visual mapping tools.
+Easily structure your knowledge with a flexible note-taking system and visual mind maps.
 
 ### Feature Card 2
 
 #### Title
-Intelligent Search
+Instant Searchability
 
 #### Icon
-search
+lightning
 
 #### Description
-Quickly find the information you need with powerful search capabilities and contextual recommendations.
+Instantly find any piece of information with powerful search and cross-linking capabilities.
 
 ### Feature Card 3
 
 #### Title
-Secure Privacy
+Secure Data Storage
 
 #### Icon
 lock
 
 #### Description
-Protect your personal data with robust encryption and granular access controls.
+Protect your sensitive information with robust encryption and access controls.

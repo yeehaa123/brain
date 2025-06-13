@@ -3,8 +3,8 @@ id: rV-lz5bR-HGL
 entityType: generated-content
 contentType: 'webserver:landing:hero'
 generatedBy: claude-3-sonnet
-created: '2025-06-13T09:55:15.774Z'
-updated: '2025-06-13T09:55:15.774Z'
+created: '2025-06-13T09:55:34.228Z'
+updated: '2025-06-13T09:55:34.228Z'
 ---
 # Hero Section
 

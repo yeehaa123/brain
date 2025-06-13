@@ -11,10 +11,14 @@
             "id": "b0f0452068f51d54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "generated-content/0YHMJsxmJsdV.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "0YHMJsxmJsdV"
             }
           }
         ]
@@ -192,6 +196,10 @@
   },
   "active": "b0f0452068f51d54",
   "lastOpenFiles": [
+    "generated-content/rV-lz5bR-HGL.md",
+    "generated-content/0YHMJsxmJsdV.md",
+    "generated-content/LYWCrAtO11zb.md",
+    "generated-content/hrU48H1Eme7L.md",
     "generated-content/1ZYSrRxEATV2.md",
     "generated-content/zUWyyEb7bvYw.md",
     "generated-content/-XDT4O3fo5xs.md",
@@ -214,10 +222,6 @@
     "generated-content/T-OzoeKLXbVY.md",
     "generated-content/2YNSU0F48Qxx.md",
     "generated-content/0NE2Gazub0Id.md",
-    "generated-content/vKR3eI8zw-1k.md",
-    "generated-content/hMHige40fx8m.md",
-    "generated-content/fgtn01SwUCfa.md",
-    "generated-content/EFTssgwwW8wO.md",
     "generated-content",
     "Untitled",
     "base",

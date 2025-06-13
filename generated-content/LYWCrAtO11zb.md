@@ -3,8 +3,8 @@ id: LYWCrAtO11zb
 entityType: generated-content
 contentType: 'webserver:landing:cta'
 generatedBy: claude-3-sonnet
-created: '2025-06-13T09:55:21.092Z'
-updated: '2025-06-13T09:55:21.092Z'
+created: '2025-06-13T09:55:34.228Z'
+updated: '2025-06-13T09:55:34.228Z'
 ---
 # CTA Section
 

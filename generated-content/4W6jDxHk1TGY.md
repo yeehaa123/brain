@@ -1,15 +1,15 @@
 ---
-id: B_-ME3n1ATgO
+id: 4W6jDxHk1TGY
 entityType: generated-content
-contentType: 'webserver:section:hero'
+contentType: 'webserver:landing:hero'
 generatedBy: claude-3-sonnet
-created: '2025-06-13T09:22:15.392Z'
-updated: '2025-06-13T09:22:15.392Z'
+created: '2025-06-13T09:51:19.678Z'
+updated: '2025-06-13T09:51:19.678Z'
 ---
 # Hero Section
 
 ## Headline
-Unlock Your Knowledge Potential
+Unlock Your Mind's Potential
 
 ## Subheadline
 Test Brain - A personal knowledge management system that helps you capture, connect, and harness your ideas.

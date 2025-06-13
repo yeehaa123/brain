@@ -11,14 +11,10 @@
             "id": "b0f0452068f51d54",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "generated-content/0YHMJsxmJsdV.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0YHMJsxmJsdV"
+              "title": "New tab"
             }
           }
         ]
@@ -194,7 +190,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b0f0452068f51d54",
+  "active": "bed4501cb0d85cc2",
   "lastOpenFiles": [
     "generated-content/rV-lz5bR-HGL.md",
     "generated-content/0YHMJsxmJsdV.md",

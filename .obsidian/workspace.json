@@ -11,10 +11,14 @@
             "id": "b0f0452068f51d54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "site-content/I7NX7Kz7lO61.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "I7NX7Kz7lO61"
             }
           }
         ]
@@ -190,12 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bed4501cb0d85cc2",
+  "active": "b0f0452068f51d54",
   "lastOpenFiles": [
+    "site-content/FWWJs2TpUqQx.md",
+    "site-content/YEPKYNQUTmBv.md",
+    "site-content/I7NX7Kz7lO61.md",
+    "site-content/lxInOI8zbeUH.md",
     "site-content/kvyvohxwyQwj.md",
     "site-content/3TaK8XK0LFz9.md",
     "site-content/yDPhBDltnnkd.md",
-    "site-content/YEPKYNQUTmBv.md",
     "site-content",
     "site-content/C-yyzngjlxcu.md",
     "site-content/HOI6A-6EJBNo.md",
@@ -216,9 +223,6 @@
     "generated-content/rV-lz5bR-HGL.md",
     "generated-content/LYWCrAtO11zb.md",
     "generated-content/hrU48H1Eme7L.md",
-    "generated-content/1ZYSrRxEATV2.md",
-    "generated-content/zUWyyEb7bvYw.md",
-    "generated-content/-XDT4O3fo5xs.md",
     "generated-content",
     "Untitled",
     "base",

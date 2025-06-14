@@ -11,10 +11,14 @@
             "id": "b0f0452068f51d54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "site-content/yDPhBDltnnkd.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "yDPhBDltnnkd"
             }
           }
         ]
@@ -190,14 +194,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bed4501cb0d85cc2",
+  "active": "b0f0452068f51d54",
   "lastOpenFiles": [
+    "site-content/wl9IQH6nVPvA.md",
+    "site-content/MY3G7oFmWUlH.md",
+    "site-content/JND8p5AHS99x.md",
+    "site-content/JkRGRBtr34FL.md",
+    "site-content/iMceRhrmD24P.md",
+    "site-content/FSKSMCo0Z4vZ.md",
+    "site-content/0Orbqe1FMEp7.md",
     "generated-content/mdFdKxaEh1xN.md",
-    "generated-content/Cov4cTMfl2yH.md",
     "generated-content/Tji7W95RW0Vd.md",
+    "generated-content/Cov4cTMfl2yH.md",
     "generated-content/5IcTSDfna7ZN.md",
-    "generated-content/rV-lz5bR-HGL.md",
     "generated-content/0YHMJsxmJsdV.md",
+    "site-content/yDPhBDltnnkd.md",
+    "site-content",
+    "generated-content/rV-lz5bR-HGL.md",
     "generated-content/LYWCrAtO11zb.md",
     "generated-content/hrU48H1Eme7L.md",
     "generated-content/1ZYSrRxEATV2.md",
@@ -210,14 +223,6 @@
     "generated-content/DIiS5HFLL4Zc.md",
     "generated-content/YT2ca27-JF_i.md",
     "generated-content/cJNq3xJmru7h.md",
-    "generated-content/gVq-bmo6VR9G.md",
-    "generated-content/Kr2htcbzwG9R.md",
-    "generated-content/m09kcT2G4E4n.md",
-    "generated-content/H8LEjMCjn7WR.md",
-    "generated-content/ZBZCI7UG578X.md",
-    "generated-content/Jpf0WVFoCUs9.md",
-    "generated-content/RhayFXDtvI7h.md",
-    "generated-content/R17nWQv0gDQe.md",
     "generated-content",
     "Untitled",
     "base",

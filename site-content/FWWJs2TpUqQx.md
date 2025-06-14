@@ -8,7 +8,7 @@ section: features
 Features
 
 ## Headline
-Unlock the Power of Your Knowledge
+There is Power in Knowledge
 
 ## Description
 Test Brain is your personal knowledge management system, capturing your expertise and transforming it into your competitive advantage.

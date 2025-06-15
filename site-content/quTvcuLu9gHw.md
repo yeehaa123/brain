@@ -6,10 +6,10 @@ environment: preview
 # CTA Section
 
 ## Headline
-Unlock the Power of Your Mind with Test Brain
+Unlock Your Full Potential with Test Brain
 
 ## Description
-Unleash your full cognitive potential with our revolutionary personal knowledge management system. Start organizing your thoughts, ideas, and memories today!
+Unleash the power of personal knowledge management and boost your productivity. Start organizing your thoughts, ideas, and memories today!
 
 ## Primary Button
 ### Text

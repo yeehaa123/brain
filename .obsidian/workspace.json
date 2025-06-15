@@ -11,10 +11,14 @@
             "id": "b0f0452068f51d54",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "site-content/-dErs1HTYj3P.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "-dErs1HTYj3P"
             }
           }
         ]
@@ -192,6 +196,7 @@
   },
   "active": "b0f0452068f51d54",
   "lastOpenFiles": [
+    "site-content/-dErs1HTYj3P.md",
     "site-content/D9YZPj7JJ-sW.md",
     "site-content/1uDdWrbJt9vn.md",
     "site-content/wXchvS6EWbjc.md",
@@ -218,7 +223,6 @@
     "generated-content/mdFdKxaEh1xN.md",
     "generated-content/Tji7W95RW0Vd.md",
     "generated-content/Cov4cTMfl2yH.md",
-    "generated-content/5IcTSDfna7ZN.md",
     "generated-content",
     "Untitled",
     "base",

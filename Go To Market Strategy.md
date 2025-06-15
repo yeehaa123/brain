@@ -1,7 +1,6 @@
 ---
 type: research
 ---
-
 ## Market Analysis & Competitive Landscape
 
 ### Market Overview

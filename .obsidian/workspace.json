@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "327fa0ce8c4db7c3",
+        "id": "c1be9027a5959cb5",
         "type": "tabs",
         "children": [
           {
-            "id": "b0f0452068f51d54",
+            "id": "8b00436d527618e0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Urging New Institutions.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Urging New Institutions"
+              "title": "New tab"
             }
           }
         ]
@@ -156,8 +152,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -179,56 +175,57 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "templates:Insert template": false
     }
   },
-  "active": "b0f0452068f51d54",
+  "active": "8b00436d527618e0",
   "lastOpenFiles": [
-    "LinkedIn Profile.md",
-    "Go To Market Strategy.md",
-    "Acquisition Targets.md",
-    "site-content/moH8VKoPMPf_.md",
-    "base",
-    "site-content/_A7PyD_nOWSb.md",
-    "Across Space And Time.md",
-    "site-content/T_b9YCx2Ya4u.md",
+    "The Future of Work is Play.md",
+    "site-content/ti0aKczydmww.md",
     "site-content/quTvcuLu9gHw.md",
+    "site-content/moH8VKoPMPf_.md",
+    "site-content/hlUeDiyIVIIZ.md",
+    "site-content/cJePorx24jZZ.md",
+    "site-content/_A7PyD_nOWSb.md",
     "site-content/Zz1C7aI1e2FB.md",
+    "site-content/MoIZhurLrYNC.md",
     "site-content",
-    "site-content/F3NPpVZmIA1x.md",
-    "site-content/DTMAMCikl0bY.md",
-    "site-content/939FD6tBRAlj.md",
-    "site-content/-dErs1HTYj3P.md",
-    "site-content/t8TF5WdV8KMP.md",
-    "site-content/nDxZMX0YBMXU.md",
-    "site-content/eXn7QZhZn77p.md",
-    "site-content/oN_iFYXNar0D.md",
-    "site-content/D9YZPj7JJ-sW.md",
-    "site-content/1uDdWrbJt9vn.md",
-    "site-content/wXchvS6EWbjc.md",
-    "site-content/ehiNJYhEfiTC.md",
-    "site-content/I7NX7Kz7lO61.md",
-    "site-content/lxInOI8zbeUH.md",
-    "site-content/FWWJs2TpUqQx.md",
-    "site-content/YEPKYNQUTmBv.md",
-    "site-content/kvyvohxwyQwj.md",
+    "growth-graph.tsx",
+    "RizomBrandBook.md",
+    "RizomBusinessBrief.md",
+    "The Future of Work is Play Old.md",
+    "YC Questions.md",
+    "Visiontype Goals.md",
+    "Value-Based Revenue Model.md",
+    "Urging New Institutions.md",
+    "The Practice Of Ecosystem Architecture.md",
+    "The Good Foot.md",
+    "Team Brain.md",
+    "Talent Vetting and Quality Assurance.md",
+    "Shenzen Goes Ham.md",
+    "Roll-up Assessment Questions.md",
+    "Roll-up Assessment Framework.md",
+    "Rizom Messaging Document.md",
+    "Rizom Investor QA.md",
+    "Rizom Foundations.md",
+    "indexes",
+    "archive",
+    "site-content-production",
+    "site-content-preview",
+    "base",
     "generated-content",
     "Untitled",
-    "archive/Barrio.md~",
-    "archive",
-    "indexes",
-    "posts"
+    "archive/Barrio.md~"
   ]
 }

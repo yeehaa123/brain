@@ -3,45 +3,42 @@ page: landing
 section: products
 environment: preview
 ---
-label: Our Products
+label: Products
 headline: Unlock the Power of Your Knowledge
 description: >-
   Explore our suite of tools and platforms designed to empower individuals,
-  foster connectivity, and cultivate personal growth through the power of
-  knowledge.
+  foster connections, and cultivate personal knowledge.
 products:
   - id: test-brain
     name: Test Brain
-    tagline: Effortlessly capture, connect, and cultivate your ideas
+    tagline: A Personal Knowledge Management Platform
     description: >-
-      A test instance of Personal Brain, our flagship platform for personal
-      knowledge management and idea exploration.
+      Capture, connect, and cultivate your ideas and knowledge with our
+      intuitive and customizable personal knowledge management platform.
     status: live
     icon: brain
   - id: knowledge-forge
     name: Knowledge Forge
-    tagline: Refine and develop your ideas with collaborative tools
+    tagline: Collaborative Knowledge Curation
     description: >-
-      A suite of collaborative tools that enable users to refine, expand, and
-      cultivate their personal knowledge through shared insights and collective
-      learning.
+      Bring your team together to share, refine, and build upon collective
+      knowledge, fostering innovation and continuous learning.
     status: beta
-    icon: tools
-  - id: idea-network
-    name: Idea Network
-    tagline: Connect with like-minded thinkers and unlock new possibilities
-    description: >-
-      A community-driven platform that facilitates the exchange of ideas,
-      enabling users to discover new connections and collaborate on innovative
-      projects.
-    status: alpha
     icon: network
-  - id: cognitive-boost
-    name: Cognitive Boost
-    tagline: Enhance your cognitive abilities and unlock your full potential
+  - id: insight-engine
+    name: Insight Engine
+    tagline: Cognitive Augmentation for Idea Generation
     description: >-
-      A suite of personalized learning and cognitive enhancement tools designed
-      to help users unlock their full intellectual potential and drive
-      continuous personal growth.
+      Unlock your creative potential with our AI-powered insight engine, which
+      helps you uncover unexpected connections and spark new ideas.
+    status: alpha
+    icon: tools
+  - id: learn-path
+    name: Learn Path
+    tagline: Personalized Learning Journeys
+    description: >-
+      Embark on a personalized learning journey tailored to your goals and
+      interests, empowering you to continuously expand your knowledge and
+      skills.
     status: concept
-    icon: brain
+    icon: education

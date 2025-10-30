@@ -20,7 +20,7 @@ This gamification system — which may involve multiple channel partners — sti
 
 Instead of investing substantial amounts of money in building this gamification ecosystem right away, Rizom believes that it is better to first test whether this solution resonates with the end-users: parents and children.
 
-### Key risks:
+## Key risks:
 
 - Upfront development costs could be stellar without clear proof of ROI
 - Parents love it, children hate it

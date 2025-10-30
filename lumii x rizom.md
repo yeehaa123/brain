@@ -1,4 +1,4 @@
-# Lumii x Rizom Collaboration 
+# Lumii x Rizom Partnership 
 
 ## Executive Summary
 
@@ -14,7 +14,9 @@ Collaborating together on a clearly defined pilot project allows us to validate 
 Lumii has developed an innovative hardware prototype that has the potential to solve the global pathological myopia problem. It has decided to explore the direct to consumer route before trying to offer their unique sensor module to OEMs.
 
 
-Lumii is aware that it cannot be a hardware solution alone. since the solution is primarily focused on children and adolescents, offering a playful engagement loop is an absolute requirement for retained use. This gamification system — which may involve multiple channel partners — still needs to be developed from scratch. Which is costly as long as the product-market fit for the hardware solution has not been established.
+Lumii is aware that it cannot be a hardware product alone. Since their solution is primarily focused on children and adolescents, offering a playful engagement loop is an absolute necessity for retained use. 
+
+This gamification system — which may involve multiple channel partners — still needs to be developed from scratch. Which is costly as long as the product-market fit for the hardware solution has not been established.
 
 Instead of investing substantial amounts of money in building this gamification ecosystem right away, Rizom believes that it is better to first test whether this solution resonates with the end-users: parents and children.
 
@@ -60,16 +62,16 @@ The project is designed to:
 | Product Owner | Accountablilty of the set outcomes | Lumii | Full Time |
 | Gamification Architect | Development of the visiontype | Rizom | 1 day per week |
 | UI/UX designer | Development of the visiontype | Rizom | 2 days per week |
-| Branding and Marketing | Ownership of the external deviverables | Lumii | w days per week |
+| Branding and Marketing | Ownership of the external deviverables | Lumii | 2 days per week |
 | Hardware Lead | Alignment visiontype and hardware feasability | Lumii | on demand |
 | Software Lead | Alignment visiontype and software feasabilty | Rizom | 1 day per week |
 | Growth Hacker | Data-driven customer engagement | Rizom | 2 days per week |
 | Product Management | Managing the project roadmap | Rizom | 1 day per week |
 
 
-### Note
+### Notes
 
-Engagement is an estimate and an average, the engagement of mentioned roles will vary through the duration of the project
+- Engagement is an estimate and an average, the engagement of mentioned roles will vary through the duration of the project
 
 
 ## Project Timeline & Deliverables
@@ -82,7 +84,7 @@ Engagement is an estimate and an average, the engagement of mentioned roles will
 | Growth-hacking | 6 weeks | Product-Market Fit |
 
 
-### Note
+### Notes
 
 - After the discovery phase, there will be a go/no moment.
 - The ideation and preparation can partially be executed in parallel if needed.

@@ -23,6 +23,7 @@ Instead of investing substantial amounts of money in building this gamification 
 - Upfront development costs could be stellar without clear proof of ROI
 - Parents love it, children hate it
 - Customers like the solution in theory, but are not willing to pay a premium for it
+- Hiring talent before their need is established and validated.
 
 
 ## The Solution
@@ -41,33 +42,47 @@ Rizom can offer the talent and expertise needed to develop said visiontype and p
 
 The project is designed to:
 
-1. Validate Lumii's combined software and hardware proposition through a focuses crowdfunding campaign.
-2. Build and test a visiontype that can function as a northstar for the next 3 years of Lumii's product developments.
-3. 
-4. Test and document customer acquisition strategies providing Lumii with data-driven evidence of what works and what does not.
-5. Develop a high-res product roadmap for year 1, and a low-res roadmap up until year 3.
+1. Validate Lumii's combined software and hardware proposition through launching a focused crowdfunding campaign in collaboration with Rizom.
+2. Develop a visiontype that can function as a northstar for the next 3 years of Lumii's product development.
+3. Document customer acquisition strategies providing Lumii with data-driven evidence of what works and what does not.
+4. Define a high-res product roadmap for year 1, and a low-res roadmap up until year 3.
+5. Evaluate channel partners are needed and, if yes, which ones.
 6. Establish an outcome-base foundation for collaboration between Lumii and Rizom, ensuring Lumii can scale faster with a flexible, adaptive partner
 7. De-risk future investments for Lumii by proving feasibility and market traction before committing significant capital
+
+
+## Roles & Responsibilities
+
+
+| Role | Responsibility | Partner | Engagement |
+|------|----------------|---------|------------------------------|
+| Product Owner | Accountablilty of the set outcomes | Lumii | Full Time |
+| Gamification Architect | Development of the visiontype | Rizom | 1 day per week |
+| UI/UX designer | Development of the visiontype | Rizom | 2 days per week |
+| Branding and Marketing | Ownership of the external deviverables | Lumii | w days per week |
+| Hardware Lead | Alignment visiontype and hardware feasability | Lumii | on demand |
+| Software Lead | Alignment visiontype and software feasabilty | Rizom | 1 day per week |
+| Growth Hacker | Data-driven customer engagement | Rizom | 2 days per week |
+| Product Management | Managing the project roadmap | Rizom | 1 day per week |
+
+
+### Note
+
+Engagement is an estimate and an average, the engagement of mentioned roles will vary through the duration of the project
 
 
 ## Project Timeline & Deliverables
 
 | Phase | Timeline | Deliverables |
 |-------|----------|--------------|
-| Discovery | 6 weeks | Roadmap + budget estimation (Go / No-Go) |
-| Execution 1 | 6 weeks | Prototype |
-| Execution 2 | 6 weeks | MVP |
-| Execution 3 | 6 weeks | V/alidated solution & scalable plan |
+| Discovery | 2 weeks | Roadmap |
+| Ideation | 4 weeks | Visiontype |
+| Preparation | 4 weeks | Crowdfunding campaign |
+| Growth-hacking | 6 weeks | Product-Market Fit |
 
 
-### Roles & Responsibilities
+### Note
 
-**Pinehurst Studio (Client Management):**  Relationship management, Oversight & validation
-**Rizom (Product & Talent):** Product strategy, design, strategic oversight, development, sales & PM — with the flexibility to add or reconfigure roles based on Baiwin’s evolving priorities
-
-## Why Rizom?
-
-**Risk-free scaling:** outcome-based project before committing big
-**Agile by design:** shift resources, skills, and focus as discoveries unfold
-**Faster to market:** from prototype to MVP to traction in 4 lean cycles
-**Win–win incentives:** success tied directly to validated results
+- After the discovery phase, there will be a go/no moment.
+- The ideation and preparation can partially be executed in parallel if needed.
+- The crowdfunding campaign will launch after the preparation phase.

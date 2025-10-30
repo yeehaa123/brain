@@ -4,7 +4,7 @@
 
 Through a strategic partnership with Rizom, Lumii will be able to quickly validate product-market fit. Through a crowdfunding campaign that showcases the combined, total hardware and software proposition that Lumii will eventually offer, we effectively validate whether parents are willing to invest in this solution or not. 
 
-Rizom brings a flexible, venture-building model — adapting its resources, talent mix, and strategies which could match Lumii’s evolving needs, ensuring we pivot quickly when new insights emerge. 
+Rizom brings a flexible, team-building model — adapting its resources, talent mix, and strategies which matches Lumii’s evolving needs. Rizom allows Lumii to have a complete [empowered product team](https://www.wiley.com/en-us/Empowered%3A+Ordinary+People%2C+Extraordinary+Products-p-9781119691297) without the need to hire this talent upfront. 
 
 Collaborating together on a clearly defined pilot project allows us to validate whether the Rizom and Lumii partnership is fruitful with minimal risk.
 
@@ -23,7 +23,8 @@ Instead of investing substantial amounts of money in building this gamification 
 - Upfront development costs could be stellar without clear proof of ROI
 - Parents love it, children hate it
 - Customers like the solution in theory, but are not willing to pay a premium for it
-- Hiring talent before their need is established and validated.
+- Hiring talent before their need is established and validated
+- Insufficient proprietary IP to protect from competitors
 
 
 ## The Solution

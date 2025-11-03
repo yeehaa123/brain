@@ -194,8 +194,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "bed4501cb0d85cc2",
+  "active": "8b00436d527618e0",
   "lastOpenFiles": [
+    "Recall Product Proposition.md~",
     "recall-product-proposition.md~",
     "Recall Product Proposition.md",
     "lumii x rizom.md~",
@@ -230,7 +231,6 @@
     "site-content-production",
     "site-content-preview",
     "base",
-    "generated-content",
-    "Untitled"
+    "generated-content"
   ]
 }

@@ -13,12 +13,6 @@ However, from an organizational perspectives catalysts are an asset as well a li
 Rizom beliefs that by introducing intelligent agents that replace and augment existing knowledge sharing pratices, the collective intelligence of teams and the scalability of organizations can be greatly enhanced.
 
 
-## Key Risks
-
-- Customers find the problem abstract and do not see immediate benefits
-- Employees refuse to work with AI that could replace them and may even actively sabotage its success
-- Major AI companies solve this problem with a centralized solution
-- Decentralized technology cannot offer the UX that people need and want
  
 
 ## Solution
@@ -34,5 +28,14 @@ It captures all of this content which can then be remixed into different feature
 **Summary Archive**: knowledge oracle in communication tools
 
 
-## Project Objectives
+## Key Risks
+
+- Customers find the problem abstract and do not see immediate benefits
+- Employees refuse to work with AI that could replace them and may even actively sabotage its success
+- Major AI companies solve this problem with a centralized solution
+- Decentralized technology cannot offer the UX that people need and want
+
+## Key Risk Mitigators
+
+-
 

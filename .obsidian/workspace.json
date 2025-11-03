@@ -152,8 +152,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -179,6 +179,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "markdown-importer:Open format converter": false,
       "switcher:Open quick switcher": false,
@@ -191,6 +192,8 @@
   },
   "active": "8b00436d527618e0",
   "lastOpenFiles": [
+    "recall-product-proposition.md~",
+    "recall-product-proposition.md",
     "lumii x rizom.md~",
     "lumii x rizom.md",
     "archive/Visiontype.md",
@@ -216,7 +219,6 @@
     "A Fatality Event.md",
     "site-content/ti0aKczydmww.md",
     "site-content/quTvcuLu9gHw.md",
-    "site-content/moH8VKoPMPf_.md",
     "site-content",
     "growth-graph.tsx",
     "indexes",
@@ -225,7 +227,6 @@
     "site-content-preview",
     "base",
     "generated-content",
-    "Untitled",
-    "archive/Barrio.md~"
+    "Untitled"
   ]
 }

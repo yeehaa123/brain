@@ -2,7 +2,7 @@
 
 ## Executive Summary
 
-Recall is an intelligent agent that captures knowledge from existing team communication and productivity tools, transforming it into a virtual catalyst for frictionless knowledge sharing. By automatically creating chatbots, topic registries, conversation summaries, and actionable feedback from collective team intelligence, Recall eliminates organizational dependency on individual "catalyst" employees and removes scaling constraints that limit company growth.
+Recall is an intelligent agent that captures knowledge from existing team communication and productivity tools, transforming it into a **virtual catalyst** for frictionless knowledge sharing. By automatically creating chatbots, topic registries, conversation summaries, and actionable feedback from collective team intelligence, Recall eliminates organizational dependency on individual catalyst employees and removes scaling constraints that limit company growth.
 
 ## Opportunity
 

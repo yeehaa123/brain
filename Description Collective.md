@@ -3,7 +3,7 @@ type: research
 ---
 Rizom operates as a dynamic professional collective, bringing together seasoned experts in digital transformation, organizational development, and ecosystem design under a shared ownership model. Our collective transcends traditional consulting structures by fostering genuine stakeholder engagement through equitable participation and distributed decision-making.
 
-Each collective member holds both the role of architect and steward of our ecosystem, contributing their unique expertise while sharing in the organization's success and direction. This model creates a living demonstration of the collaborative principles we champion for our clients.
+Each collective member holds both the role jof architect and steward of our ecosystem, contributing their unique expertise while sharing in the organization's success and direction. This model creates a living demonstration of the collaborative principles we champion for our clients.
 
 Our collective includes:
 

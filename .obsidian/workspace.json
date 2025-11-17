@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Recall Product Proposition"
             }
+          },
+          {
+            "id": "9deae065fb2e0162",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,8 +207,11 @@
       "templates:Insert template": false
     }
   },
-  "active": "8b00436d527618e0",
+  "active": "9deae065fb2e0162",
   "lastOpenFiles": [
+    "Pinehurst x Rizom Partnership.md",
+    "pinehurst.md~",
+    "pinehurst.md",
     "Recall Product Proposition.md~",
     "recall-product-proposition.md~",
     "Recall Product Proposition.md",
@@ -223,14 +239,11 @@
     "Brain Output Test.md",
     "A Fatality Event.md",
     "site-content/ti0aKczydmww.md",
-    "site-content/quTvcuLu9gHw.md",
     "site-content",
     "growth-graph.tsx",
     "indexes",
     "archive",
     "site-content-production",
-    "site-content-preview",
-    "base",
-    "generated-content"
+    "site-content-preview"
   ]
 }

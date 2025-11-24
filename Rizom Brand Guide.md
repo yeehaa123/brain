@@ -2,6 +2,10 @@
 
 A comprehensive guide to the Rizom visual identity and design system.
 
+Current Homepage: https://rizom.ai
+
+Old Figma Brandbook (needs update asap): https://www.figma.com/design/f6AsEZgBmzgSPB0dSr1UPs/Rizom-Landing-Page--Copy-?node-id=754-229&t=xguykuOkhFN5V6Le-0
+
 ---
 
 ## Typography
@@ -11,14 +15,14 @@ A comprehensive guide to the Rizom visual identity and design system.
 **Plus Jakarta Sans** — Primary Typeface
 A modern, clean sans-serif used for body text, UI elements, and general content.
 
-**Weights Available:** 200 (Extra Light), 300 (Light), 400 (Regular), 500 (Medium), 600 (Semi Bold), 700 (Bold), 800 (Extra Bold)
+**Weights Available:**  400 (Regular) - others may be added if really needed
 
 **Space Grotesk** — Display Typeface
 A geometric sans-serif with subtle character, used for headlines, titles, and emphasis.
 
-**Weights Available:** 300 (Light), 400 (Regular), 500 (Medium), 600 (Semi Bold), 700 (Bold)
+**Weights Available:** 700 (Bold)
 
-**Monospace** — Code & Technical
+**Monospace** — TBD
 System default monospace fonts for code blocks and technical content.
 
 **Examples:** SFMono, Menlo, Monaco, Consolas
@@ -201,52 +205,6 @@ background: linear-gradient(
 
 ---
 
-## Patterns & Textures
-
-### Hero Dot Grid Pattern
-
-**Style:** Radial gradient dots
-**Color:** Indigo (`#6366f1`) in light mode, subtle in dark mode
-**Dot Size:** 1px circles
-**Spacing:** 20×20px grid
-**Usage:** Hero sections, feature backgrounds
-
-**CSS:**
-```css
-background-image: radial-gradient(
-  circle at 1px 1px,
-  #6366f1 1px,
-  transparent 0
-);
-background-size: 20px 20px;
-```
-
-**Visual:** A subtle grid of small dots that adds texture without overwhelming content.
-
----
-
-### CTA Dot Grid Pattern
-
-**Style:** Radial gradient dots
-**Color:** White at 15% opacity
-**Dot Size:** 1px circles
-**Spacing:** 40×40px grid (larger, more spacious)
-**Usage:** Call-to-action sections
-
-**CSS:**
-```css
-background-image: radial-gradient(
-  circle at 2px 2px,
-  rgba(255, 255, 255, 0.15) 1px,
-  transparent 0
-);
-background-size: 40px 40px;
-```
-
-**Visual:** A more spacious dot pattern suitable for overlay on colored backgrounds.
-
----
-
 ## Spacing System
 
 The design uses a **4px base grid system** with the following scale:
@@ -263,105 +221,6 @@ The design uses a **4px base grid system** with the following scale:
 | **16** | 64px | Section spacing |
 | **24** | 96px | Major section spacing |
 | **32** | 128px | Hero section spacing |
-
----
-
-### Common Spacing Patterns
-
-**Hero Section:**
-- Vertical padding: 128px desktop, 64px mobile
-- Title to body spacing: 48px
-- Body to CTA spacing: 64px
-
-**Content Sections:**
-- Vertical padding: 96px desktop, 48px mobile
-- Heading to content: 32px
-- Between content items: 24px
-
-**Cards:**
-- Internal padding: 32px
-- Border radius: 8px
-- Gap between cards: 24px
-
-**Containers:**
-- Desktop max width: 1280px
-- Desktop horizontal padding: 64px
-- Mobile horizontal padding: 20px
-
----
-
-## Components
-
-### Buttons
-
-**Primary Button**
-- Background: Primary Blue (`#3921D7`)
-- Text: White, Plus Jakarta Sans, 18px, Semi Bold (600)
-- Padding: 24px horizontal, 20px vertical
-- Border radius: 8px
-- Hover: Dark Blue 1 (`#2E007D`)
-- Transition: 200ms ease
-
-**Secondary Button**
-- Background: Transparent
-- Text: Primary Blue (`#3921D7`), Plus Jakarta Sans, 18px, Semi Bold (600)
-- Border: 2px solid Primary Blue
-- Padding: 24px horizontal, 20px vertical
-- Border radius: 8px
-- Hover: Light blue tint background
-
-**CTA Button (Orange)**
-- Background: Primary Orange (`#E7640A`)
-- Text: White, Plus Jakarta Sans, 18px, Semi Bold (600)
-- Padding: 24px horizontal, 20px vertical
-- Border radius: 8px
-- Hover: Dark Orange (`#c2410c`)
-- Transition: 200ms ease
-
-**Sizes:**
-- Large: 28px vertical padding, 20px font size
-- Medium (default): 20px vertical padding, 18px font size
-- Small: 12px vertical padding, 16px font size
-
----
-
-### Cards
-
-**Default Card**
-- Background: White (light mode) / Dark Subtle (dark mode)
-- Padding: 32px
-- Border: 1px solid Gray Border / Dark Muted
-- Border radius: 8px
-- Shadow: 0px 4px 20px rgba(0, 0, 0, 0.08)
-- Max width: 350px
-
-**Elevated Card**
-- Same as default but with larger shadow:
-- Shadow: 0px 8px 32px rgba(0, 0, 0, 0.12)
-
-**Card Content Structure:**
-- Icon/Image area: 160×160px (if applicable)
-- Title: Space Grotesk, 24px, Bold
-- Body: Plus Jakarta Sans, 16px, Regular
-- Spacing: 24px between elements
-
----
-
-### Navigation
-
-**Menu Item — Default**
-- Text: Plus Jakarta Sans, 16px, Medium (500)
-- Color: Dark Blue 2 (light mode) / Text Light (dark mode)
-- Padding: 12px vertical, 16px horizontal
-
-**Menu Item — Hover**
-- Background: Subtle gray tint
-- Underline: 2px Primary Blue
-
-**Menu Item — Active**
-- Background: Warm Beige (light mode) / Dark Muted (dark mode)
-- Text: Dark Blue 1
-- Indicator: 2px bottom border Primary Blue
 
 ---
 
@@ -397,40 +256,6 @@ The design uses a **4px base grid system** with the following scale:
 - ✗ Add effects (shadows, gradients)
 - ✗ Use on busy backgrounds without sufficient contrast
 - ✗ Recreate or redraw the logo
-
----
-
-## Animation
-
-### Blob Animation
-
-Organic floating animation for decorative elements.
-
-**Duration:** 7 seconds
-**Loop:** Infinite
-**Easing:** Smooth cubic bezier
-
-**Keyframes:**
-- 0%: translate(0, 0) scale(1)
-- 33%: translate(30px, -50px) scale(1.1)
-- 66%: translate(-20px, 20px) scale(0.9)
-- 100%: translate(0, 0) scale(1)
-
-**Stagger Delays:** 2s and 4s for multiple blobs
-
----
-
-### Transitions
-
-**Standard Transitions:**
-- Duration: 200ms
-- Easing: ease or ease-in-out
-- Properties: background-color, color, transform
-
-**Hover Effects:**
-- Buttons: Background color change
-- Links: Underline appearance
-- Cards: Subtle lift (translateY(-4px) + shadow increase)
 
 ---
 

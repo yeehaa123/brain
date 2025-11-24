@@ -1,15 +1,17 @@
 # Recall
 
-## Executive Summary 
-Recall is a self-hosted AI “knowledge layer” on top of the tools your teams already use (Slack, Teams, Notion, GitHub, etc.). It continuously captures and structures institutional knowledge from everyday communication and documentation, and makes it instantly accessible through an internal chatbot, topic dictionary, and conversation summaries. 
+## Executive Summary
 
-Result: faster onboarding, faster decision-making, fewer bottlenecks around “key people,” and less time wasted searching for context.
+Recall is a self-hosted AI knowledge layer on top of the tools your teams already use (Slack, Teams, Notion, GitHub, etc.). It continuously captures and structures institutional knowledge from everyday communication and documentation, and makes it instantly accessible through an internal chatbot, topic dictionary, and conversation summaries. 
+
+Result: faster onboarding, faster decision-making, fewer bottlenecks around key people, and less time wasted searching for context.
 
 
 ## The Problem 
+
 In every organization, critical knowledge lives in a few people and scattered tools:
 
-- Teams depend on informal “catalysts” who know how things really work. 
+- Teams depend on informal **catalysts** who know how things really work. 
 - Context is buried in Slack threads, docs, and AI chats, not in one place. 
 - New hires take months to ramp up. 
 - When key people leave or are unavailable, projects slow down or stall.

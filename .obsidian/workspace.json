@@ -25,12 +25,14 @@
             "id": "9deae065fb2e0162",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "Sign-Up Mad Lib.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Sign-Up Mad Lib"
             }
           }
         ],
@@ -87,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,6 +212,11 @@
   },
   "active": "9deae065fb2e0162",
   "lastOpenFiles": [
+    "Rizom Brand Guide.md",
+    "BRAND-GUIDE.md",
+    "Untitled.base",
+    "A Fatality Event.md",
+    "Pitch.md",
     "Pinehurst x Rizom Partnership.md",
     "pinehurst.md~",
     "pinehurst.md",
@@ -235,15 +243,10 @@
     "Rizom Foundations.md",
     "Forgotten Futures Outline.md",
     "Forgotten Futures Abstract.md",
-    "Brandbook.md",
-    "Brain Output Test.md",
-    "A Fatality Event.md",
-    "site-content/ti0aKczydmww.md",
     "site-content",
     "growth-graph.tsx",
     "indexes",
     "archive",
-    "site-content-production",
-    "site-content-preview"
+    "site-content-production"
   ]
 }

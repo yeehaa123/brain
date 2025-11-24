@@ -1,5 +1,5 @@
 # Recall
-j
+
 ## Executive Summary 
 Recall is a self-hosted AI “knowledge layer” on top of the tools your teams already use (Slack, Teams, Notion, GitHub, etc.). It continuously captures and structures institutional knowledge from everyday communication and documentation, and makes it instantly accessible through an internal chatbot, topic dictionary, and conversation summaries. 
 

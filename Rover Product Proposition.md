@@ -37,6 +37,16 @@ Rover brings it together and makes it conversational. Chat with your own ideas. 
 
 And because others can chat with your Rover too, your expertise becomes accessible even when you're busy, asleep, or on vacation.
 
+## The Flywheel
+
+Here's what makes Rover different from a static website or a dumb chatbot: it gets smarter as you feed it.
+
+Add an essay, and Rover can reference it in conversations. Capture a link, and Rover remembers what you found interesting about it. The more you put in, the more useful Rover becomes — better answers, sharper connections, more relevant suggestions.
+
+But it works the other way too. Rover helps you create. Draft social posts from your essays. Generate summaries of your presentations. Turn rough notes into polished content. That content goes back into the brain, making Rover smarter still.
+
+Your knowledge compounds. Your brain grows. Your website expands. All from the same flywheel.
+
 ## Your Brain, Their Conversation
 
 When someone talks to your Rover, they're essentially having a conversation with your collected knowledge. Not a search engine — a thinking partner that understands your perspective.

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sign-Up Mad Lib.md",
+                "file": "Rizom Brains.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sign-Up Mad Lib"
+              "title": "Rizom Brains"
             }
           }
         ],
@@ -89,8 +89,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -212,6 +211,16 @@
   },
   "active": "9deae065fb2e0162",
   "lastOpenFiles": [
+    "Rover Product Proposition.md",
+    "Untitled 2.base",
+    "Rizom Brains.md",
+    "Untitled 1.base",
+    "Brains Essence.md",
+    "Teaching Taipei.md",
+    "Yingge Coworking.md",
+    "Flat Geometries.md",
+    "ecosystem-architecture-organizational-design.md",
+    "Sign-Up Mad Lib.md",
     "Rizom Client Proposition.md~",
     "Rizom Client Proposition.md",
     "Pitch.md",
@@ -236,17 +245,7 @@
     "archive/Forgotten Futures Talk Speaker v2.md",
     "archive/Forgotten Futures Talk Outline.md",
     "Visiontype Storyboard.md",
-    "Visiontype Goals.md",
-    "The Future of Work is Play.md",
-    "The Future of Work is Play Old.md",
-    "Sign-Up Mad Lib.md",
-    "RizomBusinessBrief.md",
-    "RizomBrandBook.md",
-    "Rizom Foundations.md",
     "site-content",
-    "growth-graph.tsx",
-    "indexes",
-    "archive",
-    "site-content-production"
+    "growth-graph.tsx"
   ]
 }
